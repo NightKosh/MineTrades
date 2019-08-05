@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>MineTrades</title>
+
+    <link rel="icon" href="favicon.png" type="image/x-icon">
+    <meta name="keywords" content="Minecraft"/>
+    <meta name="description" content=""/>
+
+    <link href="css/reset.css" rel="stylesheet" type="text/css"/>
+
+    <link rel="stylesheet" href="css/libs/select.css">
+    <link rel="stylesheet" href="css/libs/bootstrap.css">
+
+    <link href="css/style.css?v=1.0.0" rel="stylesheet" type="text/css"/>
+    <link href="css/icons.css?v=1.0.0" rel="stylesheet" type="text/css"/>
+
+    <script src="js/libs/angular.min.js"></script>
+    <script src="js/libs/select.js"></script>
+    <script src="js/libs/angular-sanitize.js"></script>
+
+    <script>
+        var version = "1.0.0";
+    </script>
+    <script src="js/configs.js?v=1.0.0"></script>
+    <script src="js/application.js?v=1.0.0"></script>
+    <script src="js/global.js?v=1.0.0"></script>
+</head>
+<body ng-app="app" ng-controller="GlobalPageCtrl">
+    <header>
+        <h1>{{globalData.title}}</h1>
+    </header>
+
+    <main>
+        <div id="content">
+            <ui-select ng-model="selected.value">
+                <ui-select-match>
+                    <div class="item {{$select.selected.class}}" ng-bind="$select.selected.name"></div>
+                </ui-select-match>
+                <ui-select-choices repeat="item in (itemArray | filter: $select.search) track by item.id">
+                    <div class="item {{item.class}}" ng-bind="item.name"></div>
+                </ui-select-choices>
+            </ui-select>
+
+            <ul id="results" ng-show="search_results.length > 0">
+                <li class="header">
+                    <div class="world">{{globalData.world}}</div>
+                    <div class="pos">{{globalData.x}}</div>
+                    <div class="pos">{{globalData.y}}</div>
+                    <div class="pos">{{globalData.z}}</div>
+                    <div class="price">{{globalData.price}}</div>
+                </li>
+                <li ng-repeat="result in search_results">
+                    <div class="world">{{result.world}}</div>
+                    <div class="pos">{{result.x}}</div>
+                    <div class="pos">{{result.y}}</div>
+                    <div class="pos">{{result.z}}</div>
+                    <div class="price">{{result.price}}</div>
+                </li>
+            </ul>
+        </div>
+    </main>
+
+    <footer>
+        <div>
+            <p><a href="https://github.com/NightKosh/MineTrades" target="_blank"><img src="images/github-26.png"/></a></p>
+        </div>
+    </footer>
+</body>
+</html>

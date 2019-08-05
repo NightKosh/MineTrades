@@ -1,0 +1,129 @@
+// Width variables (appears count calculates by raw css)
+@width0: 1100px; // Appears 3 times
+
+// Height variables (appears count calculates by raw css)
+@height1: 100%; // Appears 4 times
+@height2: 64px; // Appears 2 times
+@height3: 50px; // Appears 3 times
+
+html, body {
+  background: url("../images/emerald.jpg");
+  color: black;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+  height: @height1;
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 100px;
+  margin: 0 auto 25px auto;
+  width: @width0;
+
+  #header_content {
+    height: @height1;
+    margin: 0 auto;
+    width: 980px;
+  }
+
+  h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0px;
+    padding: 35px 0 0 0;
+    text-align: center;
+    text-shadow: 0 0 10px white;
+  }
+}
+
+main {
+  box-sizing: border-box;
+  margin: -125px auto -86px auto;
+  min-height: @height1;
+  padding: 125px 0 86px;
+  width: @width0;
+  z-index: 10;
+
+  #content {
+    background-color: rgba(256, 256, 256, 0.6);
+    border-radius: 25px;
+    padding: 20px 60px;
+    z-index: 10;
+  }
+}
+
+footer {
+  > div {
+    margin: 0 auto;
+    padding: 25px 20px;
+    text-align: center;
+    width: @width0;
+  }
+}
+
+
+.form-control {
+  height: @height2;
+}
+
+input.form-control {
+  height: @height2;
+  margin-bottom: 1px;
+}
+
+.item {
+  font-size: 23px;
+  height: @height3;
+  line-height: @height3;
+  width: 500px;
+
+  &::before {
+    background-image: url("../images/all_items.png");
+    background-repeat: no-repeat;
+    content: "";
+    display: block;
+    float: left;
+    height: @height3;
+    margin-right: 25px;
+    width: 50px;
+  }
+}
+
+#results {
+  background: white;
+  border-radius: 5px;
+  border: 1px solid rgb(173, 173, 173);
+  font-size: 24px;
+  margin-top: 25px;
+  > li {
+    border-bottom: 1px solid rgb(173, 173, 173);
+    overflow: hidden;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    > div {
+      border-right: 1px solid rgb(173, 173, 173);
+      float: left;
+      height: @height3;
+      line-height: @height3;
+      text-align: center;
+
+      &:last-child {
+        border-right: none;
+      }
+      &.world {
+        width: 250px;
+      }
+      &.pos {
+        width: 150px;
+      }
+      &.price {
+        width: 200px;
+      }
+    }
+  }
+}

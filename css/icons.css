@@ -1,0 +1,4088 @@
+.item.ACACIA_BOAT::before {
+    background-position: -0px -0px;
+}
+
+.item.ACACIA_BUTTON::before {
+    background-position: -50px -0px;
+}
+
+.item.ACACIA_DOOR::before {
+    background-position: -100px -0px;
+}
+
+.item.ACACIA_FENCE::before {
+    background-position: -150px -0px;
+}
+
+.item.ACACIA_FENCE_GATE::before {
+    background-position: -200px -0px;
+}
+
+.item.ACACIA_LEAVES::before {
+    background-position: -250px -0px;
+}
+
+.item.ACACIA_LOG::before {
+    background-position: -300px -0px;
+}
+
+.item.ACACIA_PLANKS::before {
+    background-position: -350px -0px;
+}
+
+.item.ACACIA_PRESSURE_PLATE::before {
+    background-position: -400px -0px;
+}
+
+.item.ACACIA_SAPLING::before {
+    background-position: -450px -0px;
+}
+
+.item.ACACIA_SIGN::before {
+    background-position: -500px -0px;
+}
+
+.item.ACACIA_SLAB::before {
+    background-position: -550px -0px;
+}
+
+.item.ACACIA_STAIRS::before {
+    background-position: -600px -0px;
+}
+
+.item.ACACIA_TRAPDOOR::before {
+    background-position: -650px -0px;
+}
+
+.item.ACACIA_WOOD::before {
+    background-position: -700px -0px;
+}
+
+.item.ACTIVATOR_RAIL::before {
+    background-position: -750px -0px;
+}
+
+.item.AIR::before {
+    background-position: -800px -0px;
+}
+
+.item.ALLIUM::before {
+    background-position: -850px -0px;
+}
+
+.item.ANDESITE::before {
+    background-position: -900px -0px;
+}
+
+.item.ANDESITE_SLAB::before {
+    background-position: -950px -0px;
+}
+
+.item.ANDESITE_STAIRS::before {
+    background-position: -0px -50px;
+}
+
+.item.ANDESITE_WALL::before {
+    background-position: -50px -50px;
+}
+
+.item.ANVIL::before {
+    background-position: -100px -50px;
+}
+
+.item.APPLE::before {
+    background-position: -150px -50px;
+}
+
+.item.ARMOR_STAND::before {
+    background-position: -200px -50px;
+}
+
+.item.ARROW::before {
+    background-position: -250px -50px;
+}
+
+.item.AZURE_BLUET::before {
+    background-position: -300px -50px;
+}
+
+.item.BAKED_POTATO::before {
+    background-position: -350px -50px;
+}
+
+.item.BAMBOO::before {
+    background-position: -400px -50px;
+}
+
+.item.BARREL::before {
+    background-position: -450px -50px;
+}
+
+.item.BARRIER::before {
+    background-position: -500px -50px;
+}
+
+.item.BAT_SPAWN_EGG::before {
+    background-position: -550px -50px;
+}
+
+.item.BEACON::before {
+    background-position: -600px -50px;
+}
+
+.item.BEDROCK::before {
+    background-position: -650px -50px;
+}
+
+.item.BEEF::before {
+    background-position: -700px -50px;
+}
+
+.item.BEETROOT::before {
+    background-position: -750px -50px;
+}
+
+.item.BEETROOT_SEEDS::before {
+    background-position: -800px -50px;
+}
+
+.item.BEETROOT_SOUP::before {
+    background-position: -850px -50px;
+}
+
+.item.BELL::before {
+    background-position: -900px -50px;
+}
+
+.item.BIRCH_BOAT::before {
+    background-position: -950px -50px;
+}
+
+.item.BIRCH_BUTTON::before {
+    background-position: -0px -100px;
+}
+
+.item.BIRCH_DOOR::before {
+    background-position: -50px -100px;
+}
+
+.item.BIRCH_FENCE::before {
+    background-position: -100px -100px;
+}
+
+.item.BIRCH_FENCE_GATE::before {
+    background-position: -150px -100px;
+}
+
+.item.BIRCH_LEAVES::before {
+    background-position: -200px -100px;
+}
+
+.item.BIRCH_LOG::before {
+    background-position: -250px -100px;
+}
+
+.item.BIRCH_PLANKS::before {
+    background-position: -300px -100px;
+}
+
+.item.BIRCH_PRESSURE_PLATE::before {
+    background-position: -350px -100px;
+}
+
+.item.BIRCH_SAPLING::before {
+    background-position: -400px -100px;
+}
+
+.item.BIRCH_SIGN::before {
+    background-position: -450px -100px;
+}
+
+.item.BIRCH_SLAB::before {
+    background-position: -500px -100px;
+}
+
+.item.BIRCH_STAIRS::before {
+    background-position: -550px -100px;
+}
+
+.item.BIRCH_TRAPDOOR::before {
+    background-position: -600px -100px;
+}
+
+.item.BIRCH_WOOD::before {
+    background-position: -650px -100px;
+}
+
+.item.BLACK_BANNER::before {
+    background-position: -700px -100px;
+}
+
+.item.BLACK_BED::before {
+    background-position: -750px -100px;
+}
+
+.item.BLACK_CARPET::before {
+    background-position: -800px -100px;
+}
+
+.item.BLACK_CONCRETE::before {
+    background-position: -850px -100px;
+}
+
+.item.BLACK_CONCRETE_POWDER::before {
+    background-position: -900px -100px;
+}
+
+.item.BLACK_DYE::before {
+    background-position: -950px -100px;
+}
+
+.item.BLACK_GLAZED_TERRACOTTA::before {
+    background-position: -0px -150px;
+}
+
+.item.BLACK_SHULKER_BOX::before {
+    background-position: -50px -150px;
+}
+
+.item.BLACK_STAINED_GLASS::before {
+    background-position: -100px -150px;
+}
+
+.item.BLACK_STAINED_GLASS_PANE::before {
+    background-position: -150px -150px;
+}
+
+.item.BLACK_TERRACOTTA::before {
+    background-position: -200px -150px;
+}
+
+.item.BLACK_WOOL::before {
+    background-position: -250px -150px;
+}
+
+.item.BLAST_FURNACE::before {
+    background-position: -300px -150px;
+}
+
+.item.BLAZE_POWDER::before {
+    background-position: -350px -150px;
+}
+
+.item.BLAZE_ROD::before {
+    background-position: -400px -150px;
+}
+
+.item.BLAZE_SPAWN_EGG::before {
+    background-position: -450px -150px;
+}
+
+.item.BLUE_BANNER::before {
+    background-position: -500px -150px;
+}
+
+.item.BLUE_BED::before {
+    background-position: -550px -150px;
+}
+
+.item.BLUE_CARPET::before {
+    background-position: -600px -150px;
+}
+
+.item.BLUE_CONCRETE::before {
+    background-position: -650px -150px;
+}
+
+.item.BLUE_CONCRETE_POWDER::before {
+    background-position: -700px -150px;
+}
+
+.item.BLUE_DYE::before {
+    background-position: -750px -150px;
+}
+
+.item.BLUE_GLAZED_TERRACOTTA::before {
+    background-position: -800px -150px;
+}
+
+.item.BLUE_ICE::before {
+    background-position: -850px -150px;
+}
+
+.item.BLUE_ORCHID::before {
+    background-position: -900px -150px;
+}
+
+.item.BLUE_SHULKER_BOX::before {
+    background-position: -950px -150px;
+}
+
+.item.BLUE_STAINED_GLASS::before {
+    background-position: -0px -200px;
+}
+
+.item.BLUE_STAINED_GLASS_PANE::before {
+    background-position: -50px -200px;
+}
+
+.item.BLUE_TERRACOTTA::before {
+    background-position: -100px -200px;
+}
+
+.item.BLUE_WOOL::before {
+    background-position: -150px -200px;
+}
+
+.item.BONE::before {
+    background-position: -200px -200px;
+}
+
+.item.BONE_BLOCK::before {
+    background-position: -250px -200px;
+}
+
+.item.BONE_MEAL::before {
+    background-position: -300px -200px;
+}
+
+.item.BOOK::before {
+    background-position: -350px -200px;
+}
+
+.item.BOOKSHELF::before {
+    background-position: -400px -200px;
+}
+
+.item.BOW::before {
+    background-position: -450px -200px;
+}
+
+.item.BOWL::before {
+    background-position: -500px -200px;
+}
+
+.item.BRAIN_CORAL::before {
+    background-position: -550px -200px;
+}
+
+.item.BRAIN_CORAL_BLOCK::before {
+    background-position: -600px -200px;
+}
+
+.item.BRAIN_CORAL_FAN::before {
+    background-position: -650px -200px;
+}
+
+.item.BREAD::before {
+    background-position: -700px -200px;
+}
+
+.item.BREWING_STAND::before {
+    background-position: -750px -200px;
+}
+
+.item.BRICK::before {
+    background-position: -800px -200px;
+}
+
+.item.BRICK_SLAB::before {
+    background-position: -850px -200px;
+}
+
+.item.BRICK_STAIRS::before {
+    background-position: -900px -200px;
+}
+
+.item.BRICK_WALL::before {
+    background-position: -950px -200px;
+}
+
+.item.BRICKS::before {
+    background-position: -0px -250px;
+}
+
+.item.BROWN_BANNER::before {
+    background-position: -50px -250px;
+}
+
+.item.BROWN_BED::before {
+    background-position: -100px -250px;
+}
+
+.item.BROWN_CARPET::before {
+    background-position: -150px -250px;
+}
+
+.item.BROWN_CONCRETE::before {
+    background-position: -200px -250px;
+}
+
+.item.BROWN_CONCRETE_POWDER::before {
+    background-position: -250px -250px;
+}
+
+.item.BROWN_DYE::before {
+    background-position: -300px -250px;
+}
+
+.item.BROWN_GLAZED_TERRACOTTA::before {
+    background-position: -350px -250px;
+}
+
+.item.BROWN_MUSHROOM::before {
+    background-position: -400px -250px;
+}
+
+.item.BROWN_MUSHROOM_BLOCK::before {
+    background-position: -450px -250px;
+}
+
+.item.BROWN_SHULKER_BOX::before {
+    background-position: -500px -250px;
+}
+
+.item.BROWN_STAINED_GLASS::before {
+    background-position: -550px -250px;
+}
+
+.item.BROWN_STAINED_GLASS_PANE::before {
+    background-position: -600px -250px;
+}
+
+.item.BROWN_TERRACOTTA::before {
+    background-position: -650px -250px;
+}
+
+.item.BROWN_WOOL::before {
+    background-position: -700px -250px;
+}
+
+.item.BUBBLE_CORAL::before {
+    background-position: -750px -250px;
+}
+
+.item.BUBBLE_CORAL_BLOCK::before {
+    background-position: -800px -250px;
+}
+
+.item.BUBBLE_CORAL_FAN::before {
+    background-position: -850px -250px;
+}
+
+.item.BUCKET::before {
+    background-position: -900px -250px;
+}
+
+.item.CACTUS::before {
+    background-position: -950px -250px;
+}
+
+.item.CAKE::before {
+    background-position: -0px -300px;
+}
+
+.item.CAMPFIRE::before {
+    background-position: -50px -300px;
+}
+
+.item.CARROT::before {
+    background-position: -100px -300px;
+}
+
+.item.CARROT_ON_A_STICK::before {
+    background-position: -150px -300px;
+}
+
+.item.CARTOGRAPHY_TABLE::before {
+    background-position: -200px -300px;
+}
+
+.item.CARVED_PUMPKIN::before {
+    background-position: -250px -300px;
+}
+
+.item.CAT_SPAWN_EGG::before {
+    background-position: -300px -300px;
+}
+
+.item.CAULDRON::before {
+    background-position: -350px -300px;
+}
+
+.item.CAVE_SPIDER_SPAWN_EGG::before {
+    background-position: -400px -300px;
+}
+
+.item.CHAIN_COMMAND_BLOCK::before {
+    background-position: -450px -300px;
+}
+
+.item.CHAINMAIL_BOOTS::before {
+    background-position: -500px -300px;
+}
+
+.item.CHAINMAIL_CHESTPLATE::before {
+    background-position: -550px -300px;
+}
+
+.item.CHAINMAIL_HELMET::before {
+    background-position: -600px -300px;
+}
+
+.item.CHAINMAIL_LEGGINGS::before {
+    background-position: -650px -300px;
+}
+
+.item.CHARCOAL::before {
+    background-position: -700px -300px;
+}
+
+.item.CHEST::before {
+    background-position: -750px -300px;
+}
+
+.item.CHEST_MINECART::before {
+    background-position: -800px -300px;
+}
+
+.item.CHICKEN::before {
+    background-position: -850px -300px;
+}
+
+.item.CHICKEN_SPAWN_EGG::before {
+    background-position: -900px -300px;
+}
+
+.item.CHIPPED_ANVIL::before {
+    background-position: -950px -300px;
+}
+
+.item.CHISELED_QUARTZ_BLOCK::before {
+    background-position: -0px -350px;
+}
+
+.item.CHISELED_RED_SANDSTONE::before {
+    background-position: -50px -350px;
+}
+
+.item.CHISELED_SANDSTONE::before {
+    background-position: -100px -350px;
+}
+
+.item.CHISELED_STONE_BRICKS::before {
+    background-position: -150px -350px;
+}
+
+.item.CHORUS_FLOWER::before {
+    background-position: -200px -350px;
+}
+
+.item.CHORUS_FRUIT::before {
+    background-position: -250px -350px;
+}
+
+.item.CHORUS_PLANT::before {
+    background-position: -300px -350px;
+}
+
+.item.CLAY::before {
+    background-position: -350px -350px;
+}
+
+.item.CLAY_BALL::before {
+    background-position: -400px -350px;
+}
+
+.item.CLOCK::before {
+    background-position: -450px -350px;
+}
+
+.item.COAL::before {
+    background-position: -500px -350px;
+}
+
+.item.COAL_BLOCK::before {
+    background-position: -550px -350px;
+}
+
+.item.COAL_ORE::before {
+    background-position: -600px -350px;
+}
+
+.item.COARSE_DIRT::before {
+    background-position: -650px -350px;
+}
+
+.item.COBBLESTONE::before {
+    background-position: -700px -350px;
+}
+
+.item.COBBLESTONE_SLAB::before {
+    background-position: -750px -350px;
+}
+
+.item.COBBLESTONE_STAIRS::before {
+    background-position: -800px -350px;
+}
+
+.item.COBBLESTONE_WALL::before {
+    background-position: -850px -350px;
+}
+
+.item.COBWEB::before {
+    background-position: -900px -350px;
+}
+
+.item.COCOA_BEANS::before {
+    background-position: -950px -350px;
+}
+
+.item.COD::before {
+    background-position: -0px -400px;
+}
+
+.item.COD_BUCKET::before {
+    background-position: -50px -400px;
+}
+
+.item.COD_SPAWN_EGG::before {
+    background-position: -100px -400px;
+}
+
+.item.COMMAND_BLOCK::before {
+    background-position: -150px -400px;
+}
+
+.item.COMMAND_BLOCK_MINECART::before {
+    background-position: -200px -400px;
+}
+
+.item.COMPARATOR::before {
+    background-position: -250px -400px;
+}
+
+.item.COMPASS::before {
+    background-position: -300px -400px;
+}
+
+.item.COMPOSTER::before {
+    background-position: -350px -400px;
+}
+
+.item.CONDUIT::before {
+    background-position: -400px -400px;
+}
+
+.item.COOKED_BEEF::before {
+    background-position: -450px -400px;
+}
+
+.item.COOKED_CHICKEN::before {
+    background-position: -500px -400px;
+}
+
+.item.COOKED_COD::before {
+    background-position: -550px -400px;
+}
+
+.item.COOKED_MUTTON::before {
+    background-position: -600px -400px;
+}
+
+.item.COOKED_PORKCHOP::before {
+    background-position: -650px -400px;
+}
+
+.item.COOKED_RABBIT::before {
+    background-position: -700px -400px;
+}
+
+.item.COOKED_SALMON::before {
+    background-position: -750px -400px;
+}
+
+.item.COOKIE::before {
+    background-position: -800px -400px;
+}
+
+.item.CORNFLOWER::before {
+    background-position: -850px -400px;
+}
+
+.item.COW_SPAWN_EGG::before {
+    background-position: -900px -400px;
+}
+
+.item.CRACKED_STONE_BRICKS::before {
+    background-position: -950px -400px;
+}
+
+.item.CRAFTING_TABLE::before {
+    background-position: -0px -450px;
+}
+
+.item.CREEPER_BANNER_PATTERN::before {
+    background-position: -50px -450px;
+}
+
+.item.CREEPER_HEAD::before {
+    background-position: -100px -450px;
+}
+
+.item.CREEPER_SPAWN_EGG::before {
+    background-position: -150px -450px;
+}
+
+.item.CROSSBOW::before {
+    background-position: -200px -450px;
+}
+
+.item.CUT_RED_SANDSTONE::before {
+    background-position: -250px -450px;
+}
+
+.item.CUT_RED_SANDSTONE_SLAB::before {
+    background-position: -300px -450px;
+}
+
+.item.CUT_SANDSTONE::before {
+    background-position: -350px -450px;
+}
+
+.item.CUT_SANDSTONE_SLAB::before {
+    background-position: -400px -450px;
+}
+
+.item.CYAN_BANNER::before {
+    background-position: -450px -450px;
+}
+
+.item.CYAN_BED::before {
+    background-position: -500px -450px;
+}
+
+.item.CYAN_CARPET::before {
+    background-position: -550px -450px;
+}
+
+.item.CYAN_CONCRETE::before {
+    background-position: -600px -450px;
+}
+
+.item.CYAN_CONCRETE_POWDER::before {
+    background-position: -650px -450px;
+}
+
+.item.CYAN_DYE::before {
+    background-position: -700px -450px;
+}
+
+.item.CYAN_GLAZED_TERRACOTTA::before {
+    background-position: -750px -450px;
+}
+
+.item.CYAN_SHULKER_BOX::before {
+    background-position: -800px -450px;
+}
+
+.item.CYAN_STAINED_GLASS::before {
+    background-position: -850px -450px;
+}
+
+.item.CYAN_STAINED_GLASS_PANE::before {
+    background-position: -900px -450px;
+}
+
+.item.CYAN_TERRACOTTA::before {
+    background-position: -950px -450px;
+}
+
+.item.CYAN_WOOL::before {
+    background-position: -0px -500px;
+}
+
+.item.DAMAGED_ANVIL::before {
+    background-position: -50px -500px;
+}
+
+.item.DANDELION::before {
+    background-position: -100px -500px;
+}
+
+.item.DARK_OAK_BOAT::before {
+    background-position: -150px -500px;
+}
+
+.item.DARK_OAK_BUTTON::before {
+    background-position: -200px -500px;
+}
+
+.item.DARK_OAK_DOOR::before {
+    background-position: -250px -500px;
+}
+
+.item.DARK_OAK_FENCE::before {
+    background-position: -300px -500px;
+}
+
+.item.DARK_OAK_FENCE_GATE::before {
+    background-position: -350px -500px;
+}
+
+.item.DARK_OAK_LEAVES::before {
+    background-position: -400px -500px;
+}
+
+.item.DARK_OAK_LOG::before {
+    background-position: -450px -500px;
+}
+
+.item.DARK_OAK_PLANKS::before {
+    background-position: -500px -500px;
+}
+
+.item.DARK_OAK_PRESSURE_PLATE::before {
+    background-position: -550px -500px;
+}
+
+.item.DARK_OAK_SAPLING::before {
+    background-position: -600px -500px;
+}
+
+.item.DARK_OAK_SIGN::before {
+    background-position: -650px -500px;
+}
+
+.item.DARK_OAK_SLAB::before {
+    background-position: -700px -500px;
+}
+
+.item.DARK_OAK_STAIRS::before {
+    background-position: -750px -500px;
+}
+
+.item.DARK_OAK_TRAPDOOR::before {
+    background-position: -800px -500px;
+}
+
+.item.DARK_OAK_WOOD::before {
+    background-position: -850px -500px;
+}
+
+.item.DARK_PRISMARINE::before {
+    background-position: -900px -500px;
+}
+
+.item.DARK_PRISMARINE_SLAB::before {
+    background-position: -950px -500px;
+}
+
+.item.DARK_PRISMARINE_STAIRS::before {
+    background-position: -0px -550px;
+}
+
+.item.DAYLIGHT_DETECTOR::before {
+    background-position: -50px -550px;
+}
+
+.item.DEAD_BRAIN_CORAL::before {
+    background-position: -100px -550px;
+}
+
+.item.DEAD_BRAIN_CORAL_BLOCK::before {
+    background-position: -150px -550px;
+}
+
+.item.DEAD_BRAIN_CORAL_FAN::before {
+    background-position: -200px -550px;
+}
+
+.item.DEAD_BUBBLE_CORAL::before {
+    background-position: -250px -550px;
+}
+
+.item.DEAD_BUBBLE_CORAL_BLOCK::before {
+    background-position: -300px -550px;
+}
+
+.item.DEAD_BUBBLE_CORAL_FAN::before {
+    background-position: -350px -550px;
+}
+
+.item.DEAD_BUSH::before {
+    background-position: -400px -550px;
+}
+
+.item.DEAD_FIRE_CORAL::before {
+    background-position: -450px -550px;
+}
+
+.item.DEAD_FIRE_CORAL_BLOCK::before {
+    background-position: -500px -550px;
+}
+
+.item.DEAD_FIRE_CORAL_FAN::before {
+    background-position: -550px -550px;
+}
+
+.item.DEAD_HORN_CORAL::before {
+    background-position: -600px -550px;
+}
+
+.item.DEAD_HORN_CORAL_BLOCK::before {
+    background-position: -650px -550px;
+}
+
+.item.DEAD_HORN_CORAL_FAN::before {
+    background-position: -700px -550px;
+}
+
+.item.DEAD_TUBE_CORAL::before {
+    background-position: -750px -550px;
+}
+
+.item.DEAD_TUBE_CORAL_BLOCK::before {
+    background-position: -800px -550px;
+}
+
+.item.DEAD_TUBE_CORAL_FAN::before {
+    background-position: -850px -550px;
+}
+
+.item.DETECTOR_RAIL::before {
+    background-position: -900px -550px;
+}
+
+.item.DIAMOND::before {
+    background-position: -950px -550px;
+}
+
+.item.DIAMOND_AXE::before {
+    background-position: -0px -600px;
+}
+
+.item.DIAMOND_BLOCK::before {
+    background-position: -50px -600px;
+}
+
+.item.DIAMOND_BOOTS::before {
+    background-position: -100px -600px;
+}
+
+.item.DIAMOND_CHESTPLATE::before {
+    background-position: -150px -600px;
+}
+
+.item.DIAMOND_HELMET::before {
+    background-position: -200px -600px;
+}
+
+.item.DIAMOND_HOE::before {
+    background-position: -250px -600px;
+}
+
+.item.DIAMOND_HORSE_ARMOR::before {
+    background-position: -300px -600px;
+}
+
+.item.DIAMOND_LEGGINGS::before {
+    background-position: -350px -600px;
+}
+
+.item.DIAMOND_ORE::before {
+    background-position: -400px -600px;
+}
+
+.item.DIAMOND_PICKAXE::before {
+    background-position: -450px -600px;
+}
+
+.item.DIAMOND_SHOVEL::before {
+    background-position: -500px -600px;
+}
+
+.item.DIAMOND_SWORD::before {
+    background-position: -550px -600px;
+}
+
+.item.DIORITE::before {
+    background-position: -600px -600px;
+}
+
+.item.DIORITE_SLAB::before {
+    background-position: -650px -600px;
+}
+
+.item.DIORITE_STAIRS::before {
+    background-position: -700px -600px;
+}
+
+.item.DIORITE_WALL::before {
+    background-position: -750px -600px;
+}
+
+.item.DIRT::before {
+    background-position: -800px -600px;
+}
+
+.item.DISPENSER::before {
+    background-position: -850px -600px;
+}
+
+.item.DOLPHIN_SPAWN_EGG::before {
+    background-position: -900px -600px;
+}
+
+.item.DONKEY_SPAWN_EGG::before {
+    background-position: -950px -600px;
+}
+
+.item.DRAGON_BREATH::before {
+    background-position: -0px -650px;
+}
+
+.item.DRAGON_EGG::before {
+    background-position: -50px -650px;
+}
+
+.item.DRAGON_HEAD::before {
+    background-position: -100px -650px;
+}
+
+.item.DRIED_KELP::before {
+    background-position: -150px -650px;
+}
+
+.item.DRIED_KELP_BLOCK::before {
+    background-position: -200px -650px;
+}
+
+.item.DROPPER::before {
+    background-position: -250px -650px;
+}
+
+.item.DROWNED_SPAWN_EGG::before {
+    background-position: -300px -650px;
+}
+
+.item.EGG::before {
+    background-position: -350px -650px;
+}
+
+.item.ELDER_GUARDIAN_SPAWN_EGG::before {
+    background-position: -400px -650px;
+}
+
+.item.ELYTRA::before {
+    background-position: -450px -650px;
+}
+
+.item.EMERALD::before {
+    background-position: -500px -650px;
+}
+
+.item.EMERALD_BLOCK::before {
+    background-position: -550px -650px;
+}
+
+.item.EMERALD_ORE::before {
+    background-position: -600px -650px;
+}
+
+.item.ENCHANTED_BOOK::before {
+    background-position: -650px -650px;
+}
+
+.item.ENCHANTED_GOLDEN_APPLE::before {
+    background-position: -700px -650px;
+}
+
+.item.ENCHANTING_TABLE::before {
+    background-position: -750px -650px;
+}
+
+.item.END_CRYSTAL::before {
+    background-position: -800px -650px;
+}
+
+.item.END_PORTAL_FRAME::before {
+    background-position: -850px -650px;
+}
+
+.item.END_ROD::before {
+    background-position: -900px -650px;
+}
+
+.item.END_STONE::before {
+    background-position: -950px -650px;
+}
+
+.item.END_STONE_BRICK_SLAB::before {
+    background-position: -0px -700px;
+}
+
+.item.END_STONE_BRICK_STAIRS::before {
+    background-position: -50px -700px;
+}
+
+.item.END_STONE_BRICK_WALL::before {
+    background-position: -100px -700px;
+}
+
+.item.END_STONE_BRICKS::before {
+    background-position: -150px -700px;
+}
+
+.item.ENDER_CHEST::before {
+    background-position: -200px -700px;
+}
+
+.item.ENDER_EYE::before {
+    background-position: -250px -700px;
+}
+
+.item.ENDER_PEARL::before {
+    background-position: -300px -700px;
+}
+
+.item.ENDERMAN_SPAWN_EGG::before {
+    background-position: -350px -700px;
+}
+
+.item.ENDERMITE_SPAWN_EGG::before {
+    background-position: -400px -700px;
+}
+
+.item.EVOKER_SPAWN_EGG::before {
+    background-position: -450px -700px;
+}
+
+.item.EXPERIENCE_BOTTLE::before {
+    background-position: -500px -700px;
+}
+
+.item.FARMLAND::before {
+    background-position: -550px -700px;
+}
+
+.item.FEATHER::before {
+    background-position: -600px -700px;
+}
+
+.item.FERMENTED_SPIDER_EYE::before {
+    background-position: -650px -700px;
+}
+
+.item.FERN::before {
+    background-position: -700px -700px;
+}
+
+.item.FILLED_MAP::before {
+    background-position: -750px -700px;
+}
+
+.item.FIRE_CHARGE::before {
+    background-position: -800px -700px;
+}
+
+.item.FIRE_CORAL::before {
+    background-position: -850px -700px;
+}
+
+.item.FIRE_CORAL_BLOCK::before {
+    background-position: -900px -700px;
+}
+
+.item.FIRE_CORAL_FAN::before {
+    background-position: -950px -700px;
+}
+
+.item.FIREWORK_ROCKET::before {
+    background-position: -0px -750px;
+}
+
+.item.FIREWORK_STAR::before {
+    background-position: -50px -750px;
+}
+
+.item.FISHING_ROD::before {
+    background-position: -100px -750px;
+}
+
+.item.FLETCHING_TABLE::before {
+    background-position: -150px -750px;
+}
+
+.item.FLINT::before {
+    background-position: -200px -750px;
+}
+
+.item.FLINT_AND_STEEL::before {
+    background-position: -250px -750px;
+}
+
+.item.FLOWER_BANNER_PATTERN::before {
+    background-position: -300px -750px;
+}
+
+.item.FLOWER_POT::before {
+    background-position: -350px -750px;
+}
+
+.item.FOX_SPAWN_EGG::before {
+    background-position: -400px -750px;
+}
+
+.item.FURNACE::before {
+    background-position: -450px -750px;
+}
+
+.item.FURNACE_MINECART::before {
+    background-position: -500px -750px;
+}
+
+.item.GHAST_SPAWN_EGG::before {
+    background-position: -550px -750px;
+}
+
+.item.GHAST_TEAR::before {
+    background-position: -600px -750px;
+}
+
+.item.GLASS::before {
+    background-position: -650px -750px;
+}
+
+.item.GLASS_BOTTLE::before {
+    background-position: -700px -750px;
+}
+
+.item.GLASS_PANE::before {
+    background-position: -750px -750px;
+}
+
+.item.GLISTERING_MELON_SLICE::before {
+    background-position: -800px -750px;
+}
+
+.item.GLOBE_BANNER_PATTERN::before {
+    background-position: -850px -750px;
+}
+
+.item.GLOWSTONE::before {
+    background-position: -900px -750px;
+}
+
+.item.GLOWSTONE_DUST::before {
+    background-position: -950px -750px;
+}
+
+.item.GOLD_BLOCK::before {
+    background-position: -0px -800px;
+}
+
+.item.GOLD_INGOT::before {
+    background-position: -50px -800px;
+}
+
+.item.GOLD_NUGGET::before {
+    background-position: -100px -800px;
+}
+
+.item.GOLD_ORE::before {
+    background-position: -150px -800px;
+}
+
+.item.GOLDEN_APPLE::before {
+    background-position: -200px -800px;
+}
+
+.item.GOLDEN_AXE::before {
+    background-position: -250px -800px;
+}
+
+.item.GOLDEN_BOOTS::before {
+    background-position: -300px -800px;
+}
+
+.item.GOLDEN_CARROT::before {
+    background-position: -350px -800px;
+}
+
+.item.GOLDEN_CHESTPLATE::before {
+    background-position: -400px -800px;
+}
+
+.item.GOLDEN_HELMET::before {
+    background-position: -450px -800px;
+}
+
+.item.GOLDEN_HOE::before {
+    background-position: -500px -800px;
+}
+
+.item.GOLDEN_HORSE_ARMOR::before {
+    background-position: -550px -800px;
+}
+
+.item.GOLDEN_LEGGINGS::before {
+    background-position: -600px -800px;
+}
+
+.item.GOLDEN_PICKAXE::before {
+    background-position: -650px -800px;
+}
+
+.item.GOLDEN_SHOVEL::before {
+    background-position: -700px -800px;
+}
+
+.item.GOLDEN_SWORD::before {
+    background-position: -750px -800px;
+}
+
+.item.GRANITE::before {
+    background-position: -800px -800px;
+}
+
+.item.GRANITE_SLAB::before {
+    background-position: -850px -800px;
+}
+
+.item.GRANITE_STAIRS::before {
+    background-position: -900px -800px;
+}
+
+.item.GRANITE_WALL::before {
+    background-position: -950px -800px;
+}
+
+.item.GRASS::before {
+    background-position: -0px -850px;
+}
+
+.item.GRASS_BLOCK::before {
+    background-position: -50px -850px;
+}
+
+.item.GRASS_PATH::before {
+    background-position: -100px -850px;
+}
+
+.item.GRAVEL::before {
+    background-position: -150px -850px;
+}
+
+.item.GRAY_BANNER::before {
+    background-position: -200px -850px;
+}
+
+.item.GRAY_BED::before {
+    background-position: -250px -850px;
+}
+
+.item.GRAY_CARPET::before {
+    background-position: -300px -850px;
+}
+
+.item.GRAY_CONCRETE::before {
+    background-position: -350px -850px;
+}
+
+.item.GRAY_CONCRETE_POWDER::before {
+    background-position: -400px -850px;
+}
+
+.item.GRAY_DYE::before {
+    background-position: -450px -850px;
+}
+
+.item.GRAY_GLAZED_TERRACOTTA::before {
+    background-position: -500px -850px;
+}
+
+.item.GRAY_SHULKER_BOX::before {
+    background-position: -550px -850px;
+}
+
+.item.GRAY_STAINED_GLASS::before {
+    background-position: -600px -850px;
+}
+
+.item.GRAY_STAINED_GLASS_PANE::before {
+    background-position: -650px -850px;
+}
+
+.item.GRAY_TERRACOTTA::before {
+    background-position: -700px -850px;
+}
+
+.item.GRAY_WOOL::before {
+    background-position: -750px -850px;
+}
+
+.item.GREEN_BANNER::before {
+    background-position: -800px -850px;
+}
+
+.item.GREEN_BED::before {
+    background-position: -850px -850px;
+}
+
+.item.GREEN_CARPET::before {
+    background-position: -900px -850px;
+}
+
+.item.GREEN_CONCRETE::before {
+    background-position: -950px -850px;
+}
+
+.item.GREEN_CONCRETE_POWDER::before {
+    background-position: -0px -900px;
+}
+
+.item.GREEN_DYE::before {
+    background-position: -50px -900px;
+}
+
+.item.GREEN_GLAZED_TERRACOTTA::before {
+    background-position: -100px -900px;
+}
+
+.item.GREEN_SHULKER_BOX::before {
+    background-position: -150px -900px;
+}
+
+.item.GREEN_STAINED_GLASS::before {
+    background-position: -200px -900px;
+}
+
+.item.GREEN_STAINED_GLASS_PANE::before {
+    background-position: -250px -900px;
+}
+
+.item.GREEN_TERRACOTTA::before {
+    background-position: -300px -900px;
+}
+
+.item.GREEN_WOOL::before {
+    background-position: -350px -900px;
+}
+
+.item.GRINDSTONE::before {
+    background-position: -400px -900px;
+}
+
+.item.GUARDIAN_SPAWN_EGG::before {
+    background-position: -450px -900px;
+}
+
+.item.GUNPOWDER::before {
+    background-position: -500px -900px;
+}
+
+.item.HAY_BLOCK::before {
+    background-position: -550px -900px;
+}
+
+.item.HEART_OF_THE_SEA::before {
+    background-position: -600px -900px;
+}
+
+.item.HEAVY_WEIGHTED_PRESSURE_PLATE::before {
+    background-position: -650px -900px;
+}
+
+.item.HOPPER::before {
+    background-position: -700px -900px;
+}
+
+.item.HOPPER_MINECART::before {
+    background-position: -750px -900px;
+}
+
+.item.HORN_CORAL::before {
+    background-position: -800px -900px;
+}
+
+.item.HORN_CORAL_BLOCK::before {
+    background-position: -850px -900px;
+}
+
+.item.HORN_CORAL_FAN::before {
+    background-position: -900px -900px;
+}
+
+.item.HORSE_SPAWN_EGG::before {
+    background-position: -950px -900px;
+}
+
+.item.HUSK_SPAWN_EGG::before {
+    background-position: -0px -950px;
+}
+
+.item.ICE::before {
+    background-position: -50px -950px;
+}
+
+.item.INFESTED_CHISELED_STONE_BRICKS::before {
+    background-position: -100px -950px;
+}
+
+.item.INFESTED_COBBLESTONE::before {
+    background-position: -150px -950px;
+}
+
+.item.INFESTED_CRACKED_STONE_BRICKS::before {
+    background-position: -200px -950px;
+}
+
+.item.INFESTED_MOSSY_STONE_BRICKS::before {
+    background-position: -250px -950px;
+}
+
+.item.INFESTED_STONE::before {
+    background-position: -300px -950px;
+}
+
+.item.INFESTED_STONE_BRICKS::before {
+    background-position: -350px -950px;
+}
+
+.item.INK_SAC::before {
+    background-position: -400px -950px;
+}
+
+.item.IRON_AXE::before {
+    background-position: -450px -950px;
+}
+
+.item.IRON_BARS::before {
+    background-position: -500px -950px;
+}
+
+.item.IRON_BLOCK::before {
+    background-position: -550px -950px;
+}
+
+.item.IRON_BOOTS::before {
+    background-position: -600px -950px;
+}
+
+.item.IRON_CHESTPLATE::before {
+    background-position: -650px -950px;
+}
+
+.item.IRON_DOOR::before {
+    background-position: -700px -950px;
+}
+
+.item.IRON_HELMET::before {
+    background-position: -750px -950px;
+}
+
+.item.IRON_HOE::before {
+    background-position: -800px -950px;
+}
+
+.item.IRON_HORSE_ARMOR::before {
+    background-position: -850px -950px;
+}
+
+.item.IRON_INGOT::before {
+    background-position: -900px -950px;
+}
+
+.item.IRON_LEGGINGS::before {
+    background-position: -950px -950px;
+}
+
+.item.IRON_NUGGET::before {
+    background-position: -0px -1000px;
+}
+
+.item.IRON_ORE::before {
+    background-position: -50px -1000px;
+}
+
+.item.IRON_PICKAXE::before {
+    background-position: -100px -1000px;
+}
+
+.item.IRON_SHOVEL::before {
+    background-position: -150px -1000px;
+}
+
+.item.IRON_SWORD::before {
+    background-position: -200px -1000px;
+}
+
+.item.IRON_TRAPDOOR::before {
+    background-position: -250px -1000px;
+}
+
+.item.ITEM_FRAME::before {
+    background-position: -300px -1000px;
+}
+
+.item.JACK_O_LANTERN::before {
+    background-position: -350px -1000px;
+}
+
+.item.JUKEBOX::before {
+    background-position: -400px -1000px;
+}
+
+.item.JUNGLE_BOAT::before {
+    background-position: -450px -1000px;
+}
+
+.item.JUNGLE_BUTTON::before {
+    background-position: -500px -1000px;
+}
+
+.item.JUNGLE_DOOR::before {
+    background-position: -550px -1000px;
+}
+
+.item.JUNGLE_FENCE::before {
+    background-position: -600px -1000px;
+}
+
+.item.JUNGLE_FENCE_GATE::before {
+    background-position: -650px -1000px;
+}
+
+.item.JUNGLE_LEAVES::before {
+    background-position: -700px -1000px;
+}
+
+.item.JUNGLE_LOG::before {
+    background-position: -750px -1000px;
+}
+
+.item.JUNGLE_PLANKS::before {
+    background-position: -800px -1000px;
+}
+
+.item.JUNGLE_PRESSURE_PLATE::before {
+    background-position: -850px -1000px;
+}
+
+.item.JUNGLE_SAPLING::before {
+    background-position: -900px -1000px;
+}
+
+.item.JUNGLE_SIGN::before {
+    background-position: -950px -1000px;
+}
+
+.item.JUNGLE_SLAB::before {
+    background-position: -0px -1050px;
+}
+
+.item.JUNGLE_STAIRS::before {
+    background-position: -50px -1050px;
+}
+
+.item.JUNGLE_TRAPDOOR::before {
+    background-position: -100px -1050px;
+}
+
+.item.JUNGLE_WOOD::before {
+    background-position: -150px -1050px;
+}
+
+.item.KELP::before {
+    background-position: -200px -1050px;
+}
+
+.item.LADDER::before {
+    background-position: -250px -1050px;
+}
+
+.item.LANTERN::before {
+    background-position: -300px -1050px;
+}
+
+.item.LAPIS_BLOCK::before {
+    background-position: -350px -1050px;
+}
+
+.item.LAPIS_LAZULI::before {
+    background-position: -400px -1050px;
+}
+
+.item.LAPIS_ORE::before {
+    background-position: -450px -1050px;
+}
+
+.item.LARGE_FERN::before {
+    background-position: -500px -1050px;
+}
+
+.item.LAVA_BUCKET::before {
+    background-position: -550px -1050px;
+}
+
+.item.LEAD::before {
+    background-position: -600px -1050px;
+}
+
+.item.LEATHER::before {
+    background-position: -650px -1050px;
+}
+
+.item.LEATHER_BOOTS::before {
+    background-position: -700px -1050px;
+}
+
+.item.LEATHER_CHESTPLATE::before {
+    background-position: -750px -1050px;
+}
+
+.item.LEATHER_HELMET::before {
+    background-position: -800px -1050px;
+}
+
+.item.LEATHER_HORSE_ARMOR::before {
+    background-position: -850px -1050px;
+}
+
+.item.LEATHER_LEGGINGS::before {
+    background-position: -900px -1050px;
+}
+
+.item.LECTERN::before {
+    background-position: -950px -1050px;
+}
+
+.item.LEVER::before {
+    background-position: -0px -1100px;
+}
+
+.item.LIGHT_BLUE_BANNER::before {
+    background-position: -50px -1100px;
+}
+
+.item.LIGHT_BLUE_BED::before {
+    background-position: -100px -1100px;
+}
+
+.item.LIGHT_BLUE_CARPET::before {
+    background-position: -150px -1100px;
+}
+
+.item.LIGHT_BLUE_CONCRETE::before {
+    background-position: -200px -1100px;
+}
+
+.item.LIGHT_BLUE_CONCRETE_POWDER::before {
+    background-position: -250px -1100px;
+}
+
+.item.LIGHT_BLUE_DYE::before {
+    background-position: -300px -1100px;
+}
+
+.item.LIGHT_BLUE_GLAZED_TERRACOTTA::before {
+    background-position: -350px -1100px;
+}
+
+.item.LIGHT_BLUE_SHULKER_BOX::before {
+    background-position: -400px -1100px;
+}
+
+.item.LIGHT_BLUE_STAINED_GLASS::before {
+    background-position: -450px -1100px;
+}
+
+.item.LIGHT_BLUE_STAINED_GLASS_PANE::before {
+    background-position: -500px -1100px;
+}
+
+.item.LIGHT_BLUE_TERRACOTTA::before {
+    background-position: -550px -1100px;
+}
+
+.item.LIGHT_BLUE_WOOL::before {
+    background-position: -600px -1100px;
+}
+
+.item.LIGHT_GRAY_BANNER::before {
+    background-position: -650px -1100px;
+}
+
+.item.LIGHT_GRAY_BED::before {
+    background-position: -700px -1100px;
+}
+
+.item.LIGHT_GRAY_CARPET::before {
+    background-position: -750px -1100px;
+}
+
+.item.LIGHT_GRAY_CONCRETE::before {
+    background-position: -800px -1100px;
+}
+
+.item.LIGHT_GRAY_CONCRETE_POWDER::before {
+    background-position: -850px -1100px;
+}
+
+.item.LIGHT_GRAY_DYE::before {
+    background-position: -900px -1100px;
+}
+
+.item.LIGHT_GRAY_GLAZED_TERRACOTTA::before {
+    background-position: -950px -1100px;
+}
+
+.item.LIGHT_GRAY_SHULKER_BOX::before {
+    background-position: -0px -1150px;
+}
+
+.item.LIGHT_GRAY_STAINED_GLASS::before {
+    background-position: -50px -1150px;
+}
+
+.item.LIGHT_GRAY_STAINED_GLASS_PANE::before {
+    background-position: -100px -1150px;
+}
+
+.item.LIGHT_GRAY_TERRACOTTA::before {
+    background-position: -150px -1150px;
+}
+
+.item.LIGHT_GRAY_WOOL::before {
+    background-position: -200px -1150px;
+}
+
+.item.LIGHT_WEIGHTED_PRESSURE_PLATE::before {
+    background-position: -250px -1150px;
+}
+
+.item.LILAC::before {
+    background-position: -300px -1150px;
+}
+
+.item.LILY_OF_THE_VALLEY::before {
+    background-position: -350px -1150px;
+}
+
+.item.LILY_PAD::before {
+    background-position: -400px -1150px;
+}
+
+.item.LIME_BANNER::before {
+    background-position: -450px -1150px;
+}
+
+.item.LIME_BED::before {
+    background-position: -500px -1150px;
+}
+
+.item.LIME_CARPET::before {
+    background-position: -550px -1150px;
+}
+
+.item.LIME_CONCRETE::before {
+    background-position: -600px -1150px;
+}
+
+.item.LIME_CONCRETE_POWDER::before {
+    background-position: -650px -1150px;
+}
+
+.item.LIME_DYE::before {
+    background-position: -700px -1150px;
+}
+
+.item.LIME_GLAZED_TERRACOTTA::before {
+    background-position: -750px -1150px;
+}
+
+.item.LIME_SHULKER_BOX::before {
+    background-position: -800px -1150px;
+}
+
+.item.LIME_STAINED_GLASS::before {
+    background-position: -850px -1150px;
+}
+
+.item.LIME_STAINED_GLASS_PANE::before {
+    background-position: -900px -1150px;
+}
+
+.item.LIME_TERRACOTTA::before {
+    background-position: -950px -1150px;
+}
+
+.item.LIME_WOOL::before {
+    background-position: -0px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -50px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -100px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -150px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -200px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -250px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -300px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -350px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -400px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -450px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -500px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -550px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -600px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -650px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -700px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -750px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -800px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -850px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -900px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -950px -1200px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -0px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -50px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -100px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -150px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -200px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -250px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -300px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -350px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -400px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -450px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -500px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -550px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -600px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -650px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -700px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -750px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -800px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -850px -1250px;
+}
+
+.item.LINGERING_POTION::before {
+    background-position: -900px -1250px;
+}
+
+.item.LLAMA_SPAWN_EGG::before {
+    background-position: -950px -1250px;
+}
+
+.item.LOOM::before {
+    background-position: -0px -1300px;
+}
+
+.item.MAGENTA_BANNER::before {
+    background-position: -50px -1300px;
+}
+
+.item.MAGENTA_BED::before {
+    background-position: -100px -1300px;
+}
+
+.item.MAGENTA_CARPET::before {
+    background-position: -150px -1300px;
+}
+
+.item.MAGENTA_CONCRETE::before {
+    background-position: -200px -1300px;
+}
+
+.item.MAGENTA_CONCRETE_POWDER::before {
+    background-position: -250px -1300px;
+}
+
+.item.MAGENTA_DYE::before {
+    background-position: -300px -1300px;
+}
+
+.item.MAGENTA_GLAZED_TERRACOTTA::before {
+    background-position: -350px -1300px;
+}
+
+.item.MAGENTA_SHULKER_BOX::before {
+    background-position: -400px -1300px;
+}
+
+.item.MAGENTA_STAINED_GLASS::before {
+    background-position: -450px -1300px;
+}
+
+.item.MAGENTA_STAINED_GLASS_PANE::before {
+    background-position: -500px -1300px;
+}
+
+.item.MAGENTA_TERRACOTTA::before {
+    background-position: -550px -1300px;
+}
+
+.item.MAGENTA_WOOL::before {
+    background-position: -600px -1300px;
+}
+
+.item.MAGMA_BLOCK::before {
+    background-position: -650px -1300px;
+}
+
+.item.MAGMA_CREAM::before {
+    background-position: -700px -1300px;
+}
+
+.item.MAGMA_CUBE_SPAWN_EGG::before {
+    background-position: -750px -1300px;
+}
+
+.item.MAP::before {
+    background-position: -800px -1300px;
+}
+
+.item.MELON::before {
+    background-position: -850px -1300px;
+}
+
+.item.MELON_SEEDS::before {
+    background-position: -900px -1300px;
+}
+
+.item.MELON_SLICE::before {
+    background-position: -950px -1300px;
+}
+
+.item.MILK_BUCKET::before {
+    background-position: -0px -1350px;
+}
+
+.item.MINECART::before {
+    background-position: -50px -1350px;
+}
+
+.item.MOJANG_BANNER_PATTERN::before {
+    background-position: -100px -1350px;
+}
+
+.item.MOOSHROOM_SPAWN_EGG::before {
+    background-position: -150px -1350px;
+}
+
+.item.MOSSY_COBBLESTONE::before {
+    background-position: -200px -1350px;
+}
+
+.item.MOSSY_COBBLESTONE_SLAB::before {
+    background-position: -250px -1350px;
+}
+
+.item.MOSSY_COBBLESTONE_STAIRS::before {
+    background-position: -300px -1350px;
+}
+
+.item.MOSSY_COBBLESTONE_WALL::before {
+    background-position: -350px -1350px;
+}
+
+.item.MOSSY_STONE_BRICK_SLAB::before {
+    background-position: -400px -1350px;
+}
+
+.item.MOSSY_STONE_BRICK_STAIRS::before {
+    background-position: -450px -1350px;
+}
+
+.item.MOSSY_STONE_BRICK_WALL::before {
+    background-position: -500px -1350px;
+}
+
+.item.MOSSY_STONE_BRICKS::before {
+    background-position: -550px -1350px;
+}
+
+.item.MULE_SPAWN_EGG::before {
+    background-position: -600px -1350px;
+}
+
+.item.MUSHROOM_STEM::before {
+    background-position: -650px -1350px;
+}
+
+.item.MUSHROOM_STEW::before {
+    background-position: -700px -1350px;
+}
+
+.item.MUSIC_DISC_11::before {
+    background-position: -750px -1350px;
+}
+
+.item.MUSIC_DISC_13::before {
+    background-position: -800px -1350px;
+}
+
+.item.MUSIC_DISC_BLOCKS::before {
+    background-position: -850px -1350px;
+}
+
+.item.MUSIC_DISC_CAT::before {
+    background-position: -900px -1350px;
+}
+
+.item.MUSIC_DISC_CHIRP::before {
+    background-position: -950px -1350px;
+}
+
+.item.MUSIC_DISC_FAR::before {
+    background-position: -0px -1400px;
+}
+
+.item.MUSIC_DISC_MALL::before {
+    background-position: -50px -1400px;
+}
+
+.item.MUSIC_DISC_MELLOHI::before {
+    background-position: -100px -1400px;
+}
+
+.item.MUSIC_DISC_STAL::before {
+    background-position: -150px -1400px;
+}
+
+.item.MUSIC_DISC_STRAD::before {
+    background-position: -200px -1400px;
+}
+
+.item.MUSIC_DISC_WAIT::before {
+    background-position: -250px -1400px;
+}
+
+.item.MUSIC_DISC_WARD::before {
+    background-position: -300px -1400px;
+}
+
+.item.MUTTON::before {
+    background-position: -350px -1400px;
+}
+
+.item.MYCELIUM::before {
+    background-position: -400px -1400px;
+}
+
+.item.NAME_TAG::before {
+    background-position: -450px -1400px;
+}
+
+.item.NAUTILUS_SHELL::before {
+    background-position: -500px -1400px;
+}
+
+.item.NETHER_BRICK::before {
+    background-position: -550px -1400px;
+}
+
+.item.NETHER_BRICK_FENCE::before {
+    background-position: -600px -1400px;
+}
+
+.item.NETHER_BRICK_SLAB::before {
+    background-position: -650px -1400px;
+}
+
+.item.NETHER_BRICK_STAIRS::before {
+    background-position: -700px -1400px;
+}
+
+.item.NETHER_BRICK_WALL::before {
+    background-position: -750px -1400px;
+}
+
+.item.NETHER_BRICKS::before {
+    background-position: -800px -1400px;
+}
+
+.item.NETHER_QUARTZ_ORE::before {
+    background-position: -850px -1400px;
+}
+
+.item.NETHER_STAR::before {
+    background-position: -900px -1400px;
+}
+
+.item.NETHER_WART::before {
+    background-position: -950px -1400px;
+}
+
+.item.NETHER_WART_BLOCK::before {
+    background-position: -0px -1450px;
+}
+
+.item.NETHERRACK::before {
+    background-position: -50px -1450px;
+}
+
+.item.NOTE_BLOCK::before {
+    background-position: -100px -1450px;
+}
+
+.item.OAK_BOAT::before {
+    background-position: -150px -1450px;
+}
+
+.item.OAK_BUTTON::before {
+    background-position: -200px -1450px;
+}
+
+.item.OAK_DOOR::before {
+    background-position: -250px -1450px;
+}
+
+.item.OAK_FENCE::before {
+    background-position: -300px -1450px;
+}
+
+.item.OAK_FENCE_GATE::before {
+    background-position: -350px -1450px;
+}
+
+.item.OAK_LEAVES::before {
+    background-position: -400px -1450px;
+}
+
+.item.OAK_LOG::before {
+    background-position: -450px -1450px;
+}
+
+.item.OAK_PLANKS::before {
+    background-position: -500px -1450px;
+}
+
+.item.OAK_PRESSURE_PLATE::before {
+    background-position: -550px -1450px;
+}
+
+.item.OAK_SAPLING::before {
+    background-position: -600px -1450px;
+}
+
+.item.OAK_SIGN::before {
+    background-position: -650px -1450px;
+}
+
+.item.OAK_SLAB::before {
+    background-position: -700px -1450px;
+}
+
+.item.OAK_STAIRS::before {
+    background-position: -750px -1450px;
+}
+
+.item.OAK_TRAPDOOR::before {
+    background-position: -800px -1450px;
+}
+
+.item.OAK_WOOD::before {
+    background-position: -850px -1450px;
+}
+
+.item.OBSERVER::before {
+    background-position: -900px -1450px;
+}
+
+.item.OBSIDIAN::before {
+    background-position: -950px -1450px;
+}
+
+.item.OCELOT_SPAWN_EGG::before {
+    background-position: -0px -1500px;
+}
+
+.item.ORANGE_BANNER::before {
+    background-position: -50px -1500px;
+}
+
+.item.ORANGE_BED::before {
+    background-position: -100px -1500px;
+}
+
+.item.ORANGE_CARPET::before {
+    background-position: -150px -1500px;
+}
+
+.item.ORANGE_CONCRETE::before {
+    background-position: -200px -1500px;
+}
+
+.item.ORANGE_CONCRETE_POWDER::before {
+    background-position: -250px -1500px;
+}
+
+.item.ORANGE_DYE::before {
+    background-position: -300px -1500px;
+}
+
+.item.ORANGE_GLAZED_TERRACOTTA::before {
+    background-position: -350px -1500px;
+}
+
+.item.ORANGE_SHULKER_BOX::before {
+    background-position: -400px -1500px;
+}
+
+.item.ORANGE_STAINED_GLASS::before {
+    background-position: -450px -1500px;
+}
+
+.item.ORANGE_STAINED_GLASS_PANE::before {
+    background-position: -500px -1500px;
+}
+
+.item.ORANGE_TERRACOTTA::before {
+    background-position: -550px -1500px;
+}
+
+.item.ORANGE_TULIP::before {
+    background-position: -600px -1500px;
+}
+
+.item.ORANGE_WOOL::before {
+    background-position: -650px -1500px;
+}
+
+.item.OXEYE_DAISY::before {
+    background-position: -700px -1500px;
+}
+
+.item.PACKED_ICE::before {
+    background-position: -750px -1500px;
+}
+
+.item.PAINTING::before {
+    background-position: -800px -1500px;
+}
+
+.item.PANDA_SPAWN_EGG::before {
+    background-position: -850px -1500px;
+}
+
+.item.PAPER::before {
+    background-position: -900px -1500px;
+}
+
+.item.PARROT_SPAWN_EGG::before {
+    background-position: -950px -1500px;
+}
+
+.item.PEONY::before {
+    background-position: -0px -1550px;
+}
+
+.item.PETRIFIED_OAK_SLAB::before {
+    background-position: -50px -1550px;
+}
+
+.item.PHANTOM_MEMBRANE::before {
+    background-position: -100px -1550px;
+}
+
+.item.PHANTOM_SPAWN_EGG::before {
+    background-position: -150px -1550px;
+}
+
+.item.PIG_SPAWN_EGG::before {
+    background-position: -200px -1550px;
+}
+
+.item.PILLAGER_SPAWN_EGG::before {
+    background-position: -250px -1550px;
+}
+
+.item.PINK_BANNER::before {
+    background-position: -300px -1550px;
+}
+
+.item.PINK_BED::before {
+    background-position: -350px -1550px;
+}
+
+.item.PINK_CARPET::before {
+    background-position: -400px -1550px;
+}
+
+.item.PINK_CONCRETE::before {
+    background-position: -450px -1550px;
+}
+
+.item.PINK_CONCRETE_POWDER::before {
+    background-position: -500px -1550px;
+}
+
+.item.PINK_DYE::before {
+    background-position: -550px -1550px;
+}
+
+.item.PINK_GLAZED_TERRACOTTA::before {
+    background-position: -600px -1550px;
+}
+
+.item.PINK_SHULKER_BOX::before {
+    background-position: -650px -1550px;
+}
+
+.item.PINK_STAINED_GLASS::before {
+    background-position: -700px -1550px;
+}
+
+.item.PINK_STAINED_GLASS_PANE::before {
+    background-position: -750px -1550px;
+}
+
+.item.PINK_TERRACOTTA::before {
+    background-position: -800px -1550px;
+}
+
+.item.PINK_TULIP::before {
+    background-position: -850px -1550px;
+}
+
+.item.PINK_WOOL::before {
+    background-position: -900px -1550px;
+}
+
+.item.PISTON::before {
+    background-position: -950px -1550px;
+}
+
+.item.PLAYER_HEAD::before {
+    background-position: -0px -1600px;
+}
+
+.item.PODZOL::before {
+    background-position: -50px -1600px;
+}
+
+.item.POISONOUS_POTATO::before {
+    background-position: -100px -1600px;
+}
+
+.item.POLAR_BEAR_SPAWN_EGG::before {
+    background-position: -150px -1600px;
+}
+
+.item.POLISHED_ANDESITE::before {
+    background-position: -200px -1600px;
+}
+
+.item.POLISHED_ANDESITE_SLAB::before {
+    background-position: -250px -1600px;
+}
+
+.item.POLISHED_ANDESITE_STAIRS::before {
+    background-position: -300px -1600px;
+}
+
+.item.POLISHED_DIORITE::before {
+    background-position: -350px -1600px;
+}
+
+.item.POLISHED_DIORITE_SLAB::before {
+    background-position: -400px -1600px;
+}
+
+.item.POLISHED_DIORITE_STAIRS::before {
+    background-position: -450px -1600px;
+}
+
+.item.POLISHED_GRANITE::before {
+    background-position: -500px -1600px;
+}
+
+.item.POLISHED_GRANITE_SLAB::before {
+    background-position: -550px -1600px;
+}
+
+.item.POLISHED_GRANITE_STAIRS::before {
+    background-position: -600px -1600px;
+}
+
+.item.POPPED_CHORUS_FRUIT::before {
+    background-position: -650px -1600px;
+}
+
+.item.POPPY::before {
+    background-position: -700px -1600px;
+}
+
+.item.PORKCHOP::before {
+    background-position: -750px -1600px;
+}
+
+.item.POTATO::before {
+    background-position: -800px -1600px;
+}
+
+.item.POTION::before {
+    background-position: -850px -1600px;
+}
+
+.item.POTION::before {
+    background-position: -900px -1600px;
+}
+
+.item.POTION::before {
+    background-position: -950px -1600px;
+}
+
+.item.POTION::before {
+    background-position: -0px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -50px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -100px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -150px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -200px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -250px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -300px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -350px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -400px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -450px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -500px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -550px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -600px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -650px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -700px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -750px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -800px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -850px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -900px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -950px -1650px;
+}
+
+.item.POTION::before {
+    background-position: -0px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -50px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -100px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -150px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -200px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -250px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -300px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -350px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -400px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -450px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -500px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -550px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -600px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -650px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -700px -1700px;
+}
+
+.item.POTION::before {
+    background-position: -750px -1700px;
+}
+
+.item.POWERED_RAIL::before {
+    background-position: -800px -1700px;
+}
+
+.item.PRISMARINE::before {
+    background-position: -850px -1700px;
+}
+
+.item.PRISMARINE_BRICK_SLAB::before {
+    background-position: -900px -1700px;
+}
+
+.item.PRISMARINE_BRICK_STAIRS::before {
+    background-position: -950px -1700px;
+}
+
+.item.PRISMARINE_BRICKS::before {
+    background-position: -0px -1750px;
+}
+
+.item.PRISMARINE_CRYSTALS::before {
+    background-position: -50px -1750px;
+}
+
+.item.PRISMARINE_SHARD::before {
+    background-position: -100px -1750px;
+}
+
+.item.PRISMARINE_SLAB::before {
+    background-position: -150px -1750px;
+}
+
+.item.PRISMARINE_STAIRS::before {
+    background-position: -200px -1750px;
+}
+
+.item.PRISMARINE_WALL::before {
+    background-position: -250px -1750px;
+}
+
+.item.PUFFERFISH::before {
+    background-position: -300px -1750px;
+}
+
+.item.PUFFERFISH_BUCKET::before {
+    background-position: -350px -1750px;
+}
+
+.item.PUFFERFISH_SPAWN_EGG::before {
+    background-position: -400px -1750px;
+}
+
+.item.PUMPKIN::before {
+    background-position: -450px -1750px;
+}
+
+.item.PUMPKIN_PIE::before {
+    background-position: -500px -1750px;
+}
+
+.item.PUMPKIN_SEEDS::before {
+    background-position: -550px -1750px;
+}
+
+.item.PURPLE_BANNER::before {
+    background-position: -600px -1750px;
+}
+
+.item.PURPLE_BED::before {
+    background-position: -650px -1750px;
+}
+
+.item.PURPLE_CARPET::before {
+    background-position: -700px -1750px;
+}
+
+.item.PURPLE_CONCRETE::before {
+    background-position: -750px -1750px;
+}
+
+.item.PURPLE_CONCRETE_POWDER::before {
+    background-position: -800px -1750px;
+}
+
+.item.PURPLE_DYE::before {
+    background-position: -850px -1750px;
+}
+
+.item.PURPLE_GLAZED_TERRACOTTA::before {
+    background-position: -900px -1750px;
+}
+
+.item.PURPLE_SHULKER_BOX::before {
+    background-position: -950px -1750px;
+}
+
+.item.PURPLE_STAINED_GLASS::before {
+    background-position: -0px -1800px;
+}
+
+.item.PURPLE_STAINED_GLASS_PANE::before {
+    background-position: -50px -1800px;
+}
+
+.item.PURPLE_TERRACOTTA::before {
+    background-position: -100px -1800px;
+}
+
+.item.PURPLE_WOOL::before {
+    background-position: -150px -1800px;
+}
+
+.item.PURPUR_BLOCK::before {
+    background-position: -200px -1800px;
+}
+
+.item.PURPUR_PILLAR::before {
+    background-position: -250px -1800px;
+}
+
+.item.PURPUR_SLAB::before {
+    background-position: -300px -1800px;
+}
+
+.item.PURPUR_STAIRS::before {
+    background-position: -350px -1800px;
+}
+
+.item.QUARTZ::before {
+    background-position: -400px -1800px;
+}
+
+.item.QUARTZ_BLOCK::before {
+    background-position: -450px -1800px;
+}
+
+.item.QUARTZ_PILLAR::before {
+    background-position: -500px -1800px;
+}
+
+.item.QUARTZ_SLAB::before {
+    background-position: -550px -1800px;
+}
+
+.item.QUARTZ_STAIRS::before {
+    background-position: -600px -1800px;
+}
+
+.item.RABBIT::before {
+    background-position: -650px -1800px;
+}
+
+.item.RABBIT_FOOT::before {
+    background-position: -700px -1800px;
+}
+
+.item.RABBIT_HIDE::before {
+    background-position: -750px -1800px;
+}
+
+.item.RABBIT_SPAWN_EGG::before {
+    background-position: -800px -1800px;
+}
+
+.item.RABBIT_STEW::before {
+    background-position: -850px -1800px;
+}
+
+.item.RAIL::before {
+    background-position: -900px -1800px;
+}
+
+.item.RAVAGER_SPAWN_EGG::before {
+    background-position: -950px -1800px;
+}
+
+.item.RED_BANNER::before {
+    background-position: -0px -1850px;
+}
+
+.item.RED_BED::before {
+    background-position: -50px -1850px;
+}
+
+.item.RED_CARPET::before {
+    background-position: -100px -1850px;
+}
+
+.item.RED_CONCRETE::before {
+    background-position: -150px -1850px;
+}
+
+.item.RED_CONCRETE_POWDER::before {
+    background-position: -200px -1850px;
+}
+
+.item.RED_DYE::before {
+    background-position: -250px -1850px;
+}
+
+.item.RED_GLAZED_TERRACOTTA::before {
+    background-position: -300px -1850px;
+}
+
+.item.RED_MUSHROOM::before {
+    background-position: -350px -1850px;
+}
+
+.item.RED_MUSHROOM_BLOCK::before {
+    background-position: -400px -1850px;
+}
+
+.item.RED_NETHER_BRICK_SLAB::before {
+    background-position: -450px -1850px;
+}
+
+.item.RED_NETHER_BRICK_STAIRS::before {
+    background-position: -500px -1850px;
+}
+
+.item.RED_NETHER_BRICK_WALL::before {
+    background-position: -550px -1850px;
+}
+
+.item.RED_NETHER_BRICKS::before {
+    background-position: -600px -1850px;
+}
+
+.item.RED_SAND::before {
+    background-position: -650px -1850px;
+}
+
+.item.RED_SANDSTONE::before {
+    background-position: -700px -1850px;
+}
+
+.item.RED_SANDSTONE_SLAB::before {
+    background-position: -750px -1850px;
+}
+
+.item.RED_SANDSTONE_STAIRS::before {
+    background-position: -800px -1850px;
+}
+
+.item.RED_SANDSTONE_WALL::before {
+    background-position: -850px -1850px;
+}
+
+.item.RED_SHULKER_BOX::before {
+    background-position: -900px -1850px;
+}
+
+.item.RED_STAINED_GLASS::before {
+    background-position: -950px -1850px;
+}
+
+.item.RED_STAINED_GLASS_PANE::before {
+    background-position: -0px -1900px;
+}
+
+.item.RED_TERRACOTTA::before {
+    background-position: -50px -1900px;
+}
+
+.item.RED_TULIP::before {
+    background-position: -100px -1900px;
+}
+
+.item.RED_WOOL::before {
+    background-position: -150px -1900px;
+}
+
+.item.REDSTONE::before {
+    background-position: -200px -1900px;
+}
+
+.item.REDSTONE_BLOCK::before {
+    background-position: -250px -1900px;
+}
+
+.item.REDSTONE_LAMP::before {
+    background-position: -300px -1900px;
+}
+
+.item.REDSTONE_ORE::before {
+    background-position: -350px -1900px;
+}
+
+.item.REDSTONE_TORCH::before {
+    background-position: -400px -1900px;
+}
+
+.item.REPEATER::before {
+    background-position: -450px -1900px;
+}
+
+.item.REPEATING_COMMAND_BLOCK::before {
+    background-position: -500px -1900px;
+}
+
+.item.ROSE_BUSH::before {
+    background-position: -550px -1900px;
+}
+
+.item.ROTTEN_FLESH::before {
+    background-position: -600px -1900px;
+}
+
+.item.SADDLE::before {
+    background-position: -650px -1900px;
+}
+
+.item.SALMON::before {
+    background-position: -700px -1900px;
+}
+
+.item.SALMON_BUCKET::before {
+    background-position: -750px -1900px;
+}
+
+.item.SALMON_SPAWN_EGG::before {
+    background-position: -800px -1900px;
+}
+
+.item.SAND::before {
+    background-position: -850px -1900px;
+}
+
+.item.SANDSTONE::before {
+    background-position: -900px -1900px;
+}
+
+.item.SANDSTONE_SLAB::before {
+    background-position: -950px -1900px;
+}
+
+.item.SANDSTONE_STAIRS::before {
+    background-position: -0px -1950px;
+}
+
+.item.SANDSTONE_WALL::before {
+    background-position: -50px -1950px;
+}
+
+.item.SCAFFOLDING::before {
+    background-position: -100px -1950px;
+}
+
+.item.SCUTE::before {
+    background-position: -150px -1950px;
+}
+
+.item.SEA_LANTERN::before {
+    background-position: -200px -1950px;
+}
+
+.item.SEA_PICKLE::before {
+    background-position: -250px -1950px;
+}
+
+.item.SEAGRASS::before {
+    background-position: -300px -1950px;
+}
+
+.item.SHEARS::before {
+    background-position: -350px -1950px;
+}
+
+.item.SHEEP_SPAWN_EGG::before {
+    background-position: -400px -1950px;
+}
+
+.item.SHIELD::before {
+    background-position: -450px -1950px;
+}
+
+.item.SHULKER_BOX::before {
+    background-position: -500px -1950px;
+}
+
+.item.SHULKER_SHELL::before {
+    background-position: -550px -1950px;
+}
+
+.item.SHULKER_SPAWN_EGG::before {
+    background-position: -600px -1950px;
+}
+
+.item.SILVERFISH_SPAWN_EGG::before {
+    background-position: -650px -1950px;
+}
+
+.item.SKELETON_HORSE_SPAWN_EGG::before {
+    background-position: -700px -1950px;
+}
+
+.item.SKELETON_SKULL::before {
+    background-position: -750px -1950px;
+}
+
+.item.SKELETON_SPAWN_EGG::before {
+    background-position: -800px -1950px;
+}
+
+.item.SKULL_BANNER_PATTERN::before {
+    background-position: -850px -1950px;
+}
+
+.item.SLIME_BALL::before {
+    background-position: -900px -1950px;
+}
+
+.item.SLIME_BLOCK::before {
+    background-position: -950px -1950px;
+}
+
+.item.SLIME_SPAWN_EGG::before {
+    background-position: -0px -2000px;
+}
+
+.item.SMITHING_TABLE::before {
+    background-position: -50px -2000px;
+}
+
+.item.SMOKER::before {
+    background-position: -100px -2000px;
+}
+
+.item.SMOOTH_QUARTZ::before {
+    background-position: -150px -2000px;
+}
+
+.item.SMOOTH_QUARTZ_SLAB::before {
+    background-position: -200px -2000px;
+}
+
+.item.SMOOTH_QUARTZ_STAIRS::before {
+    background-position: -250px -2000px;
+}
+
+.item.SMOOTH_RED_SANDSTONE::before {
+    background-position: -300px -2000px;
+}
+
+.item.SMOOTH_RED_SANDSTONE_SLAB::before {
+    background-position: -350px -2000px;
+}
+
+.item.SMOOTH_RED_SANDSTONE_STAIRS::before {
+    background-position: -400px -2000px;
+}
+
+.item.SMOOTH_SANDSTONE::before {
+    background-position: -450px -2000px;
+}
+
+.item.SMOOTH_SANDSTONE_SLAB::before {
+    background-position: -500px -2000px;
+}
+
+.item.SMOOTH_SANDSTONE_STAIRS::before {
+    background-position: -550px -2000px;
+}
+
+.item.SMOOTH_STONE::before {
+    background-position: -600px -2000px;
+}
+
+.item.SMOOTH_STONE_SLAB::before {
+    background-position: -650px -2000px;
+}
+
+.item.SNOW::before {
+    background-position: -700px -2000px;
+}
+
+.item.SNOW_BLOCK::before {
+    background-position: -750px -2000px;
+}
+
+.item.SNOWBALL::before {
+    background-position: -800px -2000px;
+}
+
+.item.SOUL_SAND::before {
+    background-position: -850px -2000px;
+}
+
+.item.SPAWNER::before {
+    background-position: -900px -2000px;
+}
+
+.item.SPECTRAL_ARROW::before {
+    background-position: -950px -2000px;
+}
+
+.item.SPIDER_EYE::before {
+    background-position: -0px -2050px;
+}
+
+.item.SPIDER_SPAWN_EGG::before {
+    background-position: -50px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -100px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -150px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -200px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -250px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -300px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -350px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -400px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -450px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -500px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -550px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -600px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -650px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -700px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -750px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -800px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -850px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -900px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -950px -2050px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -0px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -50px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -100px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -150px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -200px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -250px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -300px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -350px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -400px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -450px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -500px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -550px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -600px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -650px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -700px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -750px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -800px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -850px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -900px -2100px;
+}
+
+.item.SPLASH_POTION::before {
+    background-position: -950px -2100px;
+}
+
+.item.SPONGE::before {
+    background-position: -0px -2150px;
+}
+
+.item.SPRUCE_BOAT::before {
+    background-position: -50px -2150px;
+}
+
+.item.SPRUCE_BUTTON::before {
+    background-position: -100px -2150px;
+}
+
+.item.SPRUCE_DOOR::before {
+    background-position: -150px -2150px;
+}
+
+.item.SPRUCE_FENCE::before {
+    background-position: -200px -2150px;
+}
+
+.item.SPRUCE_FENCE_GATE::before {
+    background-position: -250px -2150px;
+}
+
+.item.SPRUCE_LEAVES::before {
+    background-position: -300px -2150px;
+}
+
+.item.SPRUCE_LOG::before {
+    background-position: -350px -2150px;
+}
+
+.item.SPRUCE_PLANKS::before {
+    background-position: -400px -2150px;
+}
+
+.item.SPRUCE_PRESSURE_PLATE::before {
+    background-position: -450px -2150px;
+}
+
+.item.SPRUCE_SAPLING::before {
+    background-position: -500px -2150px;
+}
+
+.item.SPRUCE_SIGN::before {
+    background-position: -550px -2150px;
+}
+
+.item.SPRUCE_SLAB::before {
+    background-position: -600px -2150px;
+}
+
+.item.SPRUCE_STAIRS::before {
+    background-position: -650px -2150px;
+}
+
+.item.SPRUCE_TRAPDOOR::before {
+    background-position: -700px -2150px;
+}
+
+.item.SPRUCE_WOOD::before {
+    background-position: -750px -2150px;
+}
+
+.item.SQUID_SPAWN_EGG::before {
+    background-position: -800px -2150px;
+}
+
+.item.STICK::before {
+    background-position: -850px -2150px;
+}
+
+.item.STICKY_PISTON::before {
+    background-position: -900px -2150px;
+}
+
+.item.STONE::before {
+    background-position: -950px -2150px;
+}
+
+.item.STONE_AXE::before {
+    background-position: -0px -2200px;
+}
+
+.item.STONE_BRICK_SLAB::before {
+    background-position: -50px -2200px;
+}
+
+.item.STONE_BRICK_STAIRS::before {
+    background-position: -100px -2200px;
+}
+
+.item.STONE_BRICK_WALL::before {
+    background-position: -150px -2200px;
+}
+
+.item.STONE_BRICKS::before {
+    background-position: -200px -2200px;
+}
+
+.item.STONE_BUTTON::before {
+    background-position: -250px -2200px;
+}
+
+.item.STONE_HOE::before {
+    background-position: -300px -2200px;
+}
+
+.item.STONE_PICKAXE::before {
+    background-position: -350px -2200px;
+}
+
+.item.STONE_PRESSURE_PLATE::before {
+    background-position: -400px -2200px;
+}
+
+.item.STONE_SHOVEL::before {
+    background-position: -450px -2200px;
+}
+
+.item.STONE_SLAB::before {
+    background-position: -500px -2200px;
+}
+
+.item.STONE_STAIRS::before {
+    background-position: -550px -2200px;
+}
+
+.item.STONE_SWORD::before {
+    background-position: -600px -2200px;
+}
+
+.item.STRAY_SPAWN_EGG::before {
+    background-position: -650px -2200px;
+}
+
+.item.STRING::before {
+    background-position: -700px -2200px;
+}
+
+.item.STRIPPED_ACACIA_LOG::before {
+    background-position: -750px -2200px;
+}
+
+.item.STRIPPED_ACACIA_WOOD::before {
+    background-position: -800px -2200px;
+}
+
+.item.STRIPPED_BIRCH_LOG::before {
+    background-position: -850px -2200px;
+}
+
+.item.STRIPPED_BIRCH_WOOD::before {
+    background-position: -900px -2200px;
+}
+
+.item.STRIPPED_DARK_OAK_LOG::before {
+    background-position: -950px -2200px;
+}
+
+.item.STRIPPED_DARK_OAK_WOOD::before {
+    background-position: -0px -2250px;
+}
+
+.item.STRIPPED_JUNGLE_LOG::before {
+    background-position: -50px -2250px;
+}
+
+.item.STRIPPED_JUNGLE_WOOD::before {
+    background-position: -100px -2250px;
+}
+
+.item.STRIPPED_OAK_LOG::before {
+    background-position: -150px -2250px;
+}
+
+.item.STRIPPED_OAK_WOOD::before {
+    background-position: -200px -2250px;
+}
+
+.item.STRIPPED_SPRUCE_LOG::before {
+    background-position: -250px -2250px;
+}
+
+.item.STRIPPED_SPRUCE_WOOD::before {
+    background-position: -300px -2250px;
+}
+
+.item.STRUCTURE_BLOCK::before {
+    background-position: -350px -2250px;
+}
+
+.item.STRUCTURE_VOID::before {
+    background-position: -400px -2250px;
+}
+
+.item.SUGAR::before {
+    background-position: -450px -2250px;
+}
+
+.item.SUGAR_CANE::before {
+    background-position: -500px -2250px;
+}
+
+.item.SUNFLOWER::before {
+    background-position: -550px -2250px;
+}
+
+.item.SUSPICIOUS_STEW::before {
+    background-position: -600px -2250px;
+}
+
+.item.SWEET_BERRIES::before {
+    background-position: -650px -2250px;
+}
+
+.item.TALL_GRASS::before {
+    background-position: -700px -2250px;
+}
+
+.item.TERRACOTTA::before {
+    background-position: -750px -2250px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -800px -2250px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -850px -2250px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -900px -2250px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -950px -2250px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -0px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -50px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -100px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -150px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -200px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -250px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -300px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -350px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -400px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -450px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -500px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -550px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -600px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -650px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -700px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -750px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -800px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -850px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -900px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -950px -2300px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -0px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -50px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -100px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -150px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -200px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -250px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -300px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -350px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -400px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -450px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -500px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -550px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -600px -2350px;
+}
+
+.item.TIPPED_ARROW::before {
+    background-position: -650px -2350px;
+}
+
+.item.TNT::before {
+    background-position: -700px -2350px;
+}
+
+.item.TNT_MINECART::before {
+    background-position: -750px -2350px;
+}
+
+.item.TORCH::before {
+    background-position: -800px -2350px;
+}
+
+.item.TOTEM_OF_UNDYING::before {
+    background-position: -850px -2350px;
+}
+
+.item.TRADER_LLAMA_SPAWN_EGG::before {
+    background-position: -900px -2350px;
+}
+
+.item.TRAPPED_CHEST::before {
+    background-position: -950px -2350px;
+}
+
+.item.TRIDENT::before {
+    background-position: -0px -2400px;
+}
+
+.item.TRIPWIRE_HOOK::before {
+    background-position: -50px -2400px;
+}
+
+.item.TROPICAL_FISH::before {
+    background-position: -100px -2400px;
+}
+
+.item.TROPICAL_FISH_BUCKET::before {
+    background-position: -150px -2400px;
+}
+
+.item.TROPICAL_FISH_SPAWN_EGG::before {
+    background-position: -200px -2400px;
+}
+
+.item.TUBE_CORAL::before {
+    background-position: -250px -2400px;
+}
+
+.item.TUBE_CORAL_BLOCK::before {
+    background-position: -300px -2400px;
+}
+
+.item.TUBE_CORAL_FAN::before {
+    background-position: -350px -2400px;
+}
+
+.item.TURTLE_EGG::before {
+    background-position: -400px -2400px;
+}
+
+.item.TURTLE_HELMET::before {
+    background-position: -450px -2400px;
+}
+
+.item.TURTLE_SPAWN_EGG::before {
+    background-position: -500px -2400px;
+}
+
+.item.VEX_SPAWN_EGG::before {
+    background-position: -550px -2400px;
+}
+
+.item.VILLAGER_SPAWN_EGG::before {
+    background-position: -600px -2400px;
+}
+
+.item.VINDICATOR_SPAWN_EGG::before {
+    background-position: -650px -2400px;
+}
+
+.item.VINE::before {
+    background-position: -700px -2400px;
+}
+
+.item.WANDERING_TRADER_SPAWN_EGG::before {
+    background-position: -750px -2400px;
+}
+
+.item.WATER_BUCKET::before {
+    background-position: -800px -2400px;
+}
+
+.item.WET_SPONGE::before {
+    background-position: -850px -2400px;
+}
+
+.item.WHEAT::before {
+    background-position: -900px -2400px;
+}
+
+.item.WHEAT_SEEDS::before {
+    background-position: -950px -2400px;
+}
+
+.item.WHITE_BANNER::before {
+    background-position: -0px -2450px;
+}
+
+.item.WHITE_BED::before {
+    background-position: -50px -2450px;
+}
+
+.item.WHITE_CARPET::before {
+    background-position: -100px -2450px;
+}
+
+.item.WHITE_CONCRETE::before {
+    background-position: -150px -2450px;
+}
+
+.item.WHITE_CONCRETE_POWDER::before {
+    background-position: -200px -2450px;
+}
+
+.item.WHITE_DYE::before {
+    background-position: -250px -2450px;
+}
+
+.item.WHITE_GLAZED_TERRACOTTA::before {
+    background-position: -300px -2450px;
+}
+
+.item.WHITE_SHULKER_BOX::before {
+    background-position: -350px -2450px;
+}
+
+.item.WHITE_STAINED_GLASS::before {
+    background-position: -400px -2450px;
+}
+
+.item.WHITE_STAINED_GLASS_PANE::before {
+    background-position: -450px -2450px;
+}
+
+.item.WHITE_TERRACOTTA::before {
+    background-position: -500px -2450px;
+}
+
+.item.WHITE_TULIP::before {
+    background-position: -550px -2450px;
+}
+
+.item.WHITE_WOOL::before {
+    background-position: -600px -2450px;
+}
+
+.item.WITCH_SPAWN_EGG::before {
+    background-position: -650px -2450px;
+}
+
+.item.WITHER_ROSE::before {
+    background-position: -700px -2450px;
+}
+
+.item.WITHER_SKELETON_SKULL::before {
+    background-position: -750px -2450px;
+}
+
+.item.WITHER_SKELETON_SPAWN_EGG::before {
+    background-position: -800px -2450px;
+}
+
+.item.WOLF_SPAWN_EGG::before {
+    background-position: -850px -2450px;
+}
+
+.item.WOODEN_AXE::before {
+    background-position: -900px -2450px;
+}
+
+.item.WOODEN_HOE::before {
+    background-position: -950px -2450px;
+}
+
+.item.WOODEN_PICKAXE::before {
+    background-position: -0px -2500px;
+}
+
+.item.WOODEN_SHOVEL::before {
+    background-position: -50px -2500px;
+}
+
+.item.WOODEN_SWORD::before {
+    background-position: -100px -2500px;
+}
+
+.item.WRITABLE_BOOK::before {
+    background-position: -150px -2500px;
+}
+
+.item.WRITTEN_BOOK::before {
+    background-position: -200px -2500px;
+}
+
+.item.YELLOW_BANNER::before {
+    background-position: -250px -2500px;
+}
+
+.item.YELLOW_BED::before {
+    background-position: -300px -2500px;
+}
+
+.item.YELLOW_CARPET::before {
+    background-position: -350px -2500px;
+}
+
+.item.YELLOW_CONCRETE::before {
+    background-position: -400px -2500px;
+}
+
+.item.YELLOW_CONCRETE_POWDER::before {
+    background-position: -450px -2500px;
+}
+
+.item.YELLOW_DYE::before {
+    background-position: -500px -2500px;
+}
+
+.item.YELLOW_GLAZED_TERRACOTTA::before {
+    background-position: -550px -2500px;
+}
+
+.item.YELLOW_SHULKER_BOX::before {
+    background-position: -600px -2500px;
+}
+
+.item.YELLOW_STAINED_GLASS::before {
+    background-position: -650px -2500px;
+}
+
+.item.YELLOW_STAINED_GLASS_PANE::before {
+    background-position: -700px -2500px;
+}
+
+.item.YELLOW_TERRACOTTA::before {
+    background-position: -750px -2500px;
+}
+
+.item.YELLOW_WOOL::before {
+    background-position: -800px -2500px;
+}
+
+.item.ZOMBIE_HEAD::before {
+    background-position: -850px -2500px;
+}
+
+.item.ZOMBIE_HORSE_SPAWN_EGG::before {
+    background-position: -900px -2500px;
+}
+
+.item.ZOMBIE_PIGMAN_SPAWN_EGG::before {
+    background-position: -950px -2500px;
+}
+
+.item.ZOMBIE_SPAWN_EGG::before {
+    background-position: -0px -2550px;
+}
+
+.item.ZOMBIE_VILLAGER_SPAWN_EGG::before {
+    background-position: -50px -2550px;
+}
+
