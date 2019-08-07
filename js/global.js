@@ -30,7 +30,6 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
 
     $scope.bgPos = 0;
     $scope.class = BACKGROUND[$scope.bgPos];
-    // $scope.class = BACKGROUND[9];
     $interval(function() {
         $scope.bgPos = ($scope.bgPos == BACKGROUND.length - 1) ? 0 : $scope.bgPos + 1;
         $scope.class = BACKGROUND[$scope.bgPos];
