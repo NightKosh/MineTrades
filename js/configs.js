@@ -1,5 +1,4 @@
 var CONFIGS = {
-    page: "",
-    link : "",
+    link : "data/demo.json",
     lang: "ru"
 };

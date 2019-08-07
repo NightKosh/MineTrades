@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "world": "world",
+      "x": 100,
+      "y": 500,
+      "z": 700,
+      "price": 2000
+    },
+    {
+      "world": "world_nether",
+      "x": -5832,
+      "y": 150,
+      "z": -100500,
+      "price": 70000
+    },
+    {
+      "world": "world_the_end",
+      "x": 800,
+      "y": 10,
+      "z": 636,
+      "price": 133
+    },
+    {
+      "world": "world",
+      "x": 100,
+      "y": 500,
+      "z": 700,
+      "price": 2000
+    },
+    {
+      "world": "world_nether",
+      "x": -5832,
+      "y": 150,
+      "z": -100500,
+      "price": 70000
+    },
+    {
+      "world": "world_the_end",
+      "x": 800,
+      "y": 10,
+      "z": 636,
+      "price": 133
+    },
+    {
+      "world": "world",
+      "x": 100,
+      "y": 500,
+      "z": 700,
+      "price": 2000
+    },
+    {
+      "world": "world_nether",
+      "x": -5832,
+      "y": 150,
+      "z": -100500,
+      "price": 70000
+    },
+    {
+      "world": "world_the_end",
+      "x": 800,
+      "y": 10,
+      "z": 636,
+      "price": 133
+    }
+  ]
+}

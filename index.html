@@ -34,7 +34,7 @@
 
     <main>
         <div id="content">
-            <ui-select ng-model="selected.value">
+            <ui-select ng-model="selected.value" autofocus="true" on-select="onSelect($item)">
                 <ui-select-match>
                     <div class="item {{$select.selected.class}}" ng-bind="$select.selected.name"></div>
                 </ui-select-match>

@@ -4,9 +4,6 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
 
     $http.get('data/global/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
         $scope.globalData = data;
-
-        // $scope.globalData.enLink = PageService.getNewLocalizedLinkByParams("en");
-        // $scope.globalData.ruLink = PageService.getNewLocalizedLinkByParams("ru");
     });
 
     $scope.itemArray = [];
@@ -22,145 +19,14 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
             });
             i++;
         }
-
-        $scope.selected = { value: $scope.itemArray[0] };
     });
 
-    $scope.search_results = [
-        {
-            world: "world",
-            x: 100,
-            y: 500,
-            z: 700,
-            price: 2000
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        },
-        {
-            world: "world_nether",
-            x: -5832,
-            y: 150,
-            z: -100500,
-            price: 70000
-        },
-        {
-            world: "world_the_end",
-            x: 800,
-            y: 10,
-            z: 636,
-            price: 133
-        }
-    ];
+    $scope.search_results = [];
+    $scope.onSelect = function($item) {
+        $http.get(CONFIGS.link + '?item=' + $item.class).success(function (data, status, headers, config) {
+            $scope.search_results = data.elements;
+        });
+    };
 
     var bgImages = [
         "emerald",
