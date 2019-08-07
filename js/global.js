@@ -7,7 +7,7 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
     });
 
     $scope.itemArray = [];
-    $http.get('data/items.json?v=' + version).success(function (data, status, headers, config) {
+    $http.get('data/items/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
         $scope.items = data;
 
         var i = 1;
