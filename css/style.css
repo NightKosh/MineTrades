@@ -232,6 +232,9 @@ input.form-control {
   height: 64px;
   margin-bottom: 1px;
 }
+.ui-select-bootstrap > .ui-select-choices {
+    max-height: 500px;
+}
 
 .item {
   height: 50px;
