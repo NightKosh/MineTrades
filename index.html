@@ -45,20 +45,39 @@
                 </ui-select-choices>
             </ui-select>
 
-            <ul id="results" ng-show="search_results.length > 0">
+            <h2 ng-show="search_results.world.length > 0">{{globalData.world}}</h2>
+            <ul class="results" ng-show="search_results.world.length > 0">
                 <li class="header">
-                    <div class="world">{{globalData.world}}</div>
-                    <div class="pos">{{globalData.x}}</div>
-                    <div class="pos">{{globalData.y}}</div>
-                    <div class="pos">{{globalData.z}}</div>
-                    <div class="price">{{globalData.price}}</div>
+                    <div class="seller">{{globalData.seller}}</div>
+                    <div class="pos">{{globalData.pos}}</div>
                 </li>
-                <li ng-repeat="result in search_results">
-                    <div class="world">{{result.world}}</div>
-                    <div class="pos">{{result.x}}</div>
-                    <div class="pos">{{result.y}}</div>
-                    <div class="pos">{{result.z}}</div>
-                    <div class="price">{{result.price}}</div>
+                <li ng-repeat="result in search_results.world">
+                    <div class="seller">{{result.seller}}</div>
+                    <div class="pos">{{result.x}} | {{result.y}} | {{result.z}}</div>
+                </li>
+            </ul>
+
+            <h2 ng-show="search_results.hell.length > 0">{{globalData.hell}}</h2>
+            <ul class="results" ng-show="search_results.hell.length > 0">
+                <li class="header">
+                    <div class="seller">{{globalData.seller}}</div>
+                    <div class="pos">{{globalData.pos}}</div>
+                </li>
+                <li ng-repeat="result in search_results.hell">
+                    <div class="seller">{{result.seller}}</div>
+                    <div class="pos">{{result.x}} | {{result.y}} | {{result.z}}</div>
+                </li>
+            </ul>
+
+            <h2 ng-show="search_results.end.length > 0">{{globalData.end}}</h2>
+            <ul class="results" ng-show="search_results.end.length > 0">
+                <li class="header">
+                    <div class="seller">{{globalData.seller}}</div>
+                    <div class="pos">{{globalData.pos}}</div>
+                </li>
+                <li ng-repeat="result in search_results.end">
+                    <div class="seller">{{result.seller}}</div>
+                    <div class="pos">{{result.x}} | {{result.y}} | {{result.z}}</div>
                 </li>
             </ul>
         </div>

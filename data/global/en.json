@@ -1,9 +1,10 @@
 {
-    "title" : "TITLE",
+    "title"  : "TITLE",
     "search" : "Search",
-    "world"  : "World",
-    "x"      : "X",
-    "y"      : "Y",
-    "z"      : "Z",
+    "world"  : "Shops",
+    "hell"   : "Shops in the Nether",
+    "end"    : "Shops in the End",
+    "seller" : "Seller",
+    "pos"    : "Position",
     "price"  : "Price"
 }

@@ -24,7 +24,7 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
     $scope.search_results = [];
     $scope.onSelect = function($item) {
         $http.get(CONFIGS.link + '?item=' + $item.class).success(function (data, status, headers, config) {
-            $scope.search_results = data.elements;
+            $scope.search_results = data;
         });
     };
 

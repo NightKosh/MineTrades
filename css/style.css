@@ -197,6 +197,10 @@ body > div, header, main, footer {
   background-image: url("../images/background/granite.jpg");
 }
 
+h2 {
+  text-align: center;
+}
+
 header {
   width: 1100px;
   height: 100px;
@@ -270,36 +274,36 @@ input.form-control {
   content: "";
 }
 
-#results {
+.results {
   margin-top: 25px;
   font-size: 24px;
   border: 1px solid rgb(173, 173, 173);
   border-radius: 5px;
   background: white;
 }
-#results > li {
+.results > li {
   overflow: hidden;
   border-bottom: 1px solid rgb(173, 173, 173);
 }
-#results > li:last-child {
+.results > li:last-child {
   border-bottom: none;
 }
-#results > li > div {
+.results > li > div {
   float: left;
   height: 50px;
   line-height: 50px;
   text-align: center;
   border-right: 1px solid rgb(173, 173, 173);
 }
-#results > li > div:last-child {
+.results > li > div:last-child {
   border-right: none;
 }
-#results > li > div.world {
-  width: 250px;
+.results > li > div.seller {
+  width: 50%;
 }
-#results > li > div.pos {
-  width: 150px;
+.results > li > div.pos {
+  width: 50%;
 }
-#results > li > div.price {
+.results > li > div.price {
   width: 200px;
 }

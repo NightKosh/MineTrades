@@ -1,67 +1,62 @@
 {
-  "elements": [
+  "world": [
     {
-      "world": "world",
+      "seller": "Yoba",
       "x": 100,
       "y": 500,
-      "z": 700,
-      "price": 2000
+      "z": 700
     },
     {
-      "world": "world_nether",
+      "seller": "QARASIQUE",
       "x": -5832,
       "y": 150,
-      "z": -100500,
-      "price": 70000
+      "z": -100500
     },
     {
-      "world": "world_the_end",
+      "seller": "Qwerty",
       "x": 800,
       "y": 10,
-      "z": 636,
-      "price": 133
-    },
+      "z": 636
+    }
+  ],
+  "hell": [
     {
-      "world": "world",
+      "seller": "Yoba",
       "x": 100,
       "y": 500,
-      "z": 700,
-      "price": 2000
+      "z": 700
     },
     {
-      "world": "world_nether",
+      "seller": "QARASIQUE",
       "x": -5832,
       "y": 150,
-      "z": -100500,
-      "price": 70000
+      "z": -100500
     },
     {
-      "world": "world_the_end",
+      "seller": "Qwerty",
       "x": 800,
       "y": 10,
-      "z": 636,
-      "price": 133
-    },
+      "z": 636
+    }
+  ],
+  "end": [
     {
-      "world": "world",
+      "seller": "Yoba",
       "x": 100,
       "y": 500,
-      "z": 700,
-      "price": 2000
+      "z": 700
     },
     {
-      "world": "world_nether",
+      "seller": "QARASIQUE",
       "x": -5832,
       "y": 150,
-      "z": -100500,
-      "price": 70000
+      "z": -100500
     },
     {
-      "world": "world_the_end",
+      "seller": "Qwerty",
       "x": 800,
       "y": 10,
-      "z": 636,
-      "price": 133
+      "z": 636
     }
   ]
 }
