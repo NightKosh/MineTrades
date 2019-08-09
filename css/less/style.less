@@ -6,16 +6,24 @@
 @height2: 64px; // Appears 2 times
 @height3: 50px; // Appears 3 times
 
-html, body {
-  color: black;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  font-size: 16px;
-  height: @height1;
-  line-height: 1.5em;
-  margin: 0;
-  padding: 0;
+div {
+  position: relative;
+  z-index: 1;
+}
+.background {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 0;
   background-repeat: repeat;
-  transition: background-image 0.5s ease;
+  opacity: 1;
+  transition: opacity 1.5s;
+  &.tr {
+    opacity: 0;
+    transition: opacity 1.5s;
+  }
 }
 .emerald {
   background-image: url("../images/background/emerald.jpg");
@@ -210,7 +218,7 @@ header {
 
 main {
   box-sizing: border-box;
-  margin: -125px auto -86px auto;
+  margin: -125px auto -88px auto;
   min-height: @height1;
   padding: 125px 0 86px;
   width: @width0;

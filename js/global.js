@@ -29,9 +29,20 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
     };
 
     $scope.bgPos = 0;
-    $scope.class = BACKGROUND[$scope.bgPos];
+    $scope.class1 = BACKGROUND[0];
+    $scope.hide = false;
     $interval(function() {
-        $scope.bgPos = ($scope.bgPos == BACKGROUND.length - 1) ? 0 : $scope.bgPos + 1;
-        $scope.class = BACKGROUND[$scope.bgPos];
-    }, 5000);
+        var nextPos = ($scope.bgPos == BACKGROUND.length - 1) ? 0 : $scope.bgPos + 1;
+        var class1 = BACKGROUND[$scope.bgPos];
+        var class2 = BACKGROUND[nextPos];
+        if ($scope.hide) {
+            $scope.class1 = class1;
+            $scope.class2 = class2;
+        } else {
+            $scope.class1 = class2;
+            $scope.class2 = class1 + " tr";
+        }
+        $scope.bgPos = nextPos;
+        $scope.hide = !$scope.hide;
+    }, 8000);
 }]);
