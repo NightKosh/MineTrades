@@ -236,6 +236,7 @@ main #content {
 }
 
 footer {
+    z-index: 11;
 }
 footer > div {
   width: 1100px;
