@@ -1,10 +1,11 @@
 {
-    "title"  : "TITLE",
-    "search" : "Search",
-    "world"  : "Shops",
-    "hell"   : "Shops in the Nether",
-    "end"    : "Shops in the End",
-    "seller" : "Seller",
-    "pos"    : "Position",
-    "price"  : "Price"
+    "title"     : "TITLE",
+    "search"    : "Search",
+    "world"     : "Shops",
+    "hell"      : "Shops in the Nether",
+    "end"       : "Shops in the End",
+    "seller"    : "Seller",
+    "pos"       : "Position",
+    "price"     : "Price",
+    "no_trades" : "There are no trades for selected item!"
 }

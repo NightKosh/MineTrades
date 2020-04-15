@@ -21,10 +21,12 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
         }
     });
 
+    $scope.has_trades = false;
     $scope.search_results = [];
     $scope.onSelect = function($item) {
         $http.get(CONFIGS.link + '?item=' + $item.class).success(function (data, status, headers, config) {
             $scope.search_results = data;
+            $scope.has_trades = (Object.keys(data).length === 0 && data.constructor === Object);
         });
     };
 

@@ -45,6 +45,8 @@
                 </ui-select-choices>
             </ui-select>
 
+            <h2 ng-show="has_trades">{{globalData.no_trades}}</h2>
+
             <h2 ng-show="search_results.world.length > 0">{{globalData.world}}</h2>
             <ul class="results" ng-show="search_results.world.length > 0">
                 <li class="header">
