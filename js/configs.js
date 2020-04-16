@@ -1,5 +1,5 @@
 var CONFIGS = {
-    link : "data/demo.json",
+    link : "http://shops-api.blockcafe.ru/search",
     lang: "ru"
 };
 
