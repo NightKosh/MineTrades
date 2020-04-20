@@ -1,6 +1,29 @@
-var CONFIGS = {
+const CONFIGS = {
     link : "data/demo.json",
-    lang: "ru"
+    lang: "ru",
+    map: {
+        world: {
+            link: "http://your_map.com/",
+            prefix: "world",
+            mapname: "surface",
+            zoom: 8,
+            enable: true
+        },
+        world_nether: {
+            link: "http://your_map.com/",
+            prefix: "world_nether",
+            mapname: "surface",
+            zoom: 8,
+            enable: true
+        },
+        world_the_end: {
+            link: "http://your_map.com/",
+            prefix: "world_the_end",
+            mapname: "surface",
+            zoom: 8,
+            enable: true
+        }
+    }
 };
 
 var BACKGROUND = [
