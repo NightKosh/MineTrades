@@ -55,7 +55,12 @@
                 </li>
                 <li ng-repeat="result in search_results.world">
                     <div class="seller">{{result.seller}}</div>
-                    <div class="pos">{{result.x}} | {{result.y}} | {{result.z}}</div>
+                    <div class="pos">
+                        <a href="{{getMapLink(result, map.world)}}" ng-show="map.world.enable" target="_blank">
+                            {{result.x}} | {{result.y}} | {{result.z}}
+                        </a>
+                        <span ng-show="!map.world.enable">{{result.x}} | {{result.y}} | {{result.z}}</span>
+                    </div>
                 </li>
             </ul>
 
@@ -67,7 +72,12 @@
                 </li>
                 <li ng-repeat="result in search_results.world_nether">
                     <div class="seller">{{result.seller}}</div>
-                    <div class="pos">{{result.x}} | {{result.y}} | {{result.z}}</div>
+                    <div class="pos">
+                        <a href="{{getMapLink(result, map.world_nether)}}" ng-show="map.world_nether.enable" target="_blank">
+                            {{result.x}} | {{result.y}} | {{result.z}}
+                        </a>
+                        <span ng-show="!map.world_nether.enable">{{result.x}} | {{result.y}} | {{result.z}}</span>
+                    </div>
                 </li>
             </ul>
 
@@ -79,7 +89,12 @@
                 </li>
                 <li ng-repeat="result in search_results.world_the_end">
                     <div class="seller">{{result.seller}}</div>
-                    <div class="pos">{{result.x}} | {{result.y}} | {{result.z}}</div>
+                    <div class="pos">
+                        <a href="{{getMapLink(result, map.world_the_end)}}" ng-show="map.world_the_end.enable" target="_blank">
+                            {{result.x}} | {{result.y}} | {{result.z}}
+                        </a>
+                        <span ng-show="!map.world_the_end.enable">{{result.x}} | {{result.y}} | {{result.z}}</span>
+                    </div>
                 </li>
             </ul>
         </div>

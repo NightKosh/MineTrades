@@ -1,6 +1,16 @@
 
 app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService', function($scope, $http, $interval, PageService) {
     $scope.globalData = {};
+    $scope.map = PageService.getPageParams().map;
+    $scope.getMapLink = function($trade, $world) {
+        return $world.link +
+            "?worldname=" + $world.prefix +
+            "&mapname=" + $world.mapname +
+            "&zoom=" + $world.zoom +
+            "&x=" + $trade.x +
+            "&y=" + $trade.y +
+            "&z=" + $trade.z;
+    };
 
     $http.get('data/global/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
         $scope.globalData = data;

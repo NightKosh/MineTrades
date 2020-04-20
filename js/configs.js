@@ -1,6 +1,29 @@
 var CONFIGS = {
     link : "http://shops-api.blockcafe.ru/search",
-    lang: "ru"
+    lang: "ru",
+    map: {
+        world: {
+            link: "http://map.blockcafe.ru/",
+            prefix: "world",
+            mapname: "surface",
+            zoom: 8,
+            enable: true
+        },
+        world_nether: {
+            link: "http://map.blockcafe.ru/",
+            prefix: "world_nether",
+            mapname: "surface",
+            zoom: 8,
+            enable: false
+        },
+        world_the_end: {
+            link: "http://map.blockcafe.ru/",
+            prefix: "world_the_end",
+            mapname: "surface",
+            zoom: 8,
+            enable: false
+        }
+    }
 };
 
 var BACKGROUND = [
