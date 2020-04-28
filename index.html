@@ -38,10 +38,10 @@
         <div id="content">
             <ui-select ng-model="selected.value" autofocus="true" on-select="onSelect($item)">
                 <ui-select-match>
-                    <div class="item {{$select.selected.class}}" ng-bind="$select.selected.name"></div>
+                    <div class="item icon {{$select.selected.class}}" ng-bind="$select.selected.name"></div>
                 </ui-select-match>
                 <ui-select-choices repeat="item in (itemArray | filter: $select.search) track by item.id">
-                    <div class="item {{item.class}}" ng-bind="item.name"></div>
+                    <div class="item icon {{item.class}}" ng-bind="item.name"></div>
                 </ui-select-choices>
             </ui-select>
 
