@@ -3820,7 +3820,8 @@
     background-position: -896px -3456px;
 }
 
-.icon.LINGERING_POTION_OF_HEALING::before {
+.icon.LINGERING_POTION_OF_HEALING::before,
+.icon.LINGERING_POTION::before {
     background-position: -928px -3456px;
 }
 
@@ -5260,7 +5261,8 @@
     background-position: -832px -3424px;
 }
 
-.icon.POTION_OF_HEALING::before {
+.icon.POTION_OF_HEALING::before,
+.icon.POTION::before {
     background-position: -864px -3424px;
 }
 
@@ -6312,7 +6314,8 @@
     background-position: -384px -3456px;
 }
 
-.icon.SPLASH_POTION_OF_HEALING::before {
+.icon.SPLASH_POTION_OF_HEALING::before,
+.icon.SPLASH_POTION::before {
     background-position: -416px -3456px;
 }
 
