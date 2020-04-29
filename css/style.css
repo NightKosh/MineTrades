@@ -296,17 +296,25 @@ input.form-control {
   height: 50px;
   line-height: 50px;
   text-align: center;
-  border-right: 1px solid rgb(173, 173, 173);
+  border-left: 1px solid rgb(173, 173, 173);
 }
-.results > li > div:last-child {
-  border-right: none;
+.results > li > div:first-child {
+  border-left: none;
 }
 .results > li > div.seller {
   width: 50%;
 }
 .results > li > div.pos {
   width: 50%;
+  margin-right: -101px;
 }
 .results > li > div.price {
   width: 200px;
+}
+.results > li > div.icon {
+  float: right;
+  border-left: none;
+}
+.results > li > div.icon::before {
+  margin-right: 9px;
 }

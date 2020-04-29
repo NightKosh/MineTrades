@@ -11,11 +11,18 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
             "&y=" + $trade.y +
             "&z=" + $trade.z;
     };
+    $scope.showEnchantedBook = function(item) {
+        return (item.itemInfo && item.itemInfo.enchantments);
+    }
+    $scope.showNameTag = function(item) {
+        return (item.itemInfo && item.itemInfo.name && item.itemInfo.name.length > 0);
+    }
 
     $http.get('data/global/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
         $scope.globalData = data;
     });
 
+    $scope.choosedItem = "";
     $scope.itemArray = [];
     $http.get('data/items/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
         $scope.items = data;
@@ -34,6 +41,7 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
     $scope.has_trades = false;
     $scope.search_results = [];
     $scope.onSelect = function($item) {
+        $scope.choosedItem = $item.class;
         $http.get(CONFIGS.link + '?item=' + $item.class).success(function (data, status, headers, config) {
             $scope.search_results = data;
             $scope.has_trades = (Object.keys(data).length === 0 && data.constructor === Object);

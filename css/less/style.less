@@ -298,23 +298,32 @@ input.form-control {
     }
 
     > div {
-      border-right: 1px solid rgb(173, 173, 173);
+      border-left: 1px solid rgb(173, 173, 173);
       float: left;
       height: @height3;
       line-height: @height3;
       text-align: center;
 
-      &:last-child {
-        border-right: none;
+      &:first-child {
+        border-left: none;
       }
       &.seller {
         width: 50%;
       }
       &.pos {
         width: 50%;
+        margin-right: -101px;
       }
       &.price {
         width: 200px;
+      }
+      &.icon {
+        float: right;
+        border-left: none;
+
+        &::before {
+          margin-right: 9px;
+        }
       }
     }
   }
