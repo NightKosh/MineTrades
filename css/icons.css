@@ -890,12 +890,8 @@
     background-position: -224px -3232px;
 }
 
-.icon.BOTTLE_O
-
-'_ENCHANTING::before
-{
-    background-position: -288px -3456px
-;
+.icon.BOTTLE_O'_ENCHANTING::before{
+    background-position: -288px -3456px;
 }
 
 .icon.BOW::before {
@@ -1356,17 +1352,6 @@
 
 .icon.CLAY::before {
     background-position: -928px -3328px;
-}
-
-.icon.
-CLAY_
-
-(
-BALL
-
-)
-::before {
-    background-position: -544px -3488px;
 }
 
 .icon.CLOCK::before {
@@ -2061,9 +2046,7 @@ BALL
     background-position: -128px -960px;
 }
 
-.icon.DRAGON
-
-'S_BREATH::before
+.icon.DRAGON_BREATH::before
 {
     background-position: -32px -3136px
 ;
@@ -4517,17 +4500,6 @@ BALL
     background-position: -704px -640px;
 }
 
-.icon.
-NETHER_WART_
-
-(
-BLOCK
-
-)
-::before {
-    background-position: -448px -992px;
-}
-
 .icon.NETHER_WART_BLOCK::before {
     background-position: -544px -3264px;
 }
@@ -5668,12 +5640,8 @@ BLOCK
     background-position: -352px -3200px;
 }
 
-.icon.RABBIT
-
-'S_FOOT::before
-{
-    background-position: -224px -3136px
-;
+.icon.RABBIT_FOOT::before {
+    background-position: -224px -3136px;
 }
 
 .icon.RAIL::before {
