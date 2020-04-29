@@ -17,6 +17,20 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
     $scope.showNameTag = function(item) {
         return (item.itemInfo && item.itemInfo.name && item.itemInfo.name.length > 0);
     }
+    $scope.getEnchantments = function(item) {
+        let str = "";
+        if ($scope.showEnchantedBook(item)) {
+            let enchantments = item.itemInfo.enchantments;
+            for (let enchantment in enchantments) {
+                str += enchantment + " - " + enchantments[enchantment] + "\n";
+            }
+            return str;
+        }
+        return "";
+    }
+    $scope.getCustomName = function(item) {
+        return $scope.showNameTag(item) ? item.itemInfo.name : "";
+    }
 
     $http.get('data/global/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
         $scope.globalData = data;
