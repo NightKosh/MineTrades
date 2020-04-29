@@ -2,61 +2,108 @@
   "world": [
     {
       "seller": "Yoba",
+      "price": 200.0,
       "x": 100,
       "y": 500,
-      "z": 700
+      "z": 700,
+      "sell": true,
+      "itemInfo": {
+        "name": null,
+        "enchantments": {
+          "WATER_WORKER": 1
+        }
+      }
     },
     {
       "seller": "QARASIQUE",
+      "price": 1.0,
       "x": -5832,
       "y": 150,
-      "z": -100500
+      "z": -100500,
+      "sell": true,
+      "itemInfo": null
     },
     {
       "seller": "Qwerty",
+      "price": 20.0,
       "x": 800,
       "y": 10,
-      "z": 636
+      "z": 636,
+      "sell": false,
+      "itemInfo": {
+        "name": "Custom Item Name",
+        "enchantments": null
+      }
     }
   ],
   "world_nether": [
     {
       "seller": "Yoba",
+      "price": 450.0,
       "x": 100,
       "y": 500,
-      "z": 700
+      "z": 700,
+      "sell": true,
+      "itemInfo": null
     },
     {
       "seller": "QARASIQUE",
+      "price": 150.0,
       "x": -5832,
       "y": 150,
-      "z": -100500
+      "z": -100500,
+      "sell": false,
+      "itemInfo": {
+        "name": null,
+        "enchantments": {
+          "DURABILITY": 3,
+          "PIERCING": 4
+        }
+      }
     },
     {
       "seller": "Qwerty",
+      "price": 30.0,
       "x": 800,
       "y": 10,
-      "z": 636
+      "z": 636,
+      "sell": true,
+      "itemInfo": {
+        "name": "Custom Item Name",
+        "enchantments": {
+          "DURABILITY": 3,
+          "PIERCING": 4
+        }
+      }
     }
   ],
   "world_the_end": [
     {
       "seller": "Yoba",
+      "price": 20.0,
       "x": 100,
       "y": 500,
-      "z": 700
+      "z": 700,
+      "sell": false,
+      "itemInfo": null
     },
     {
       "seller": "QARASIQUE",
+      "price": 50.0,
       "x": -5832,
       "y": 150,
-      "z": -100500
+      "z": -100500,
+      "sell": true,
+      "itemInfo": null
     },
     {
       "seller": "Qwerty",
+      "price": 100.0,
       "x": 800,
       "y": 10,
-      "z": 636
+      "z": 636,
+      "sell": true,
+      "itemInfo": null
     }
   ]
 }
