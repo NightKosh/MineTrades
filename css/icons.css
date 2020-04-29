@@ -1359,8 +1359,8 @@
 }
 
 .icon.
-
 CLAY_
+
 (
 BALL
 
@@ -3001,12 +3001,8 @@ BALL
     background-position: -480px -3136px;
 }
 
-.icon.JACK_O
-
-'LANTERN::before
-{
-    background-position: -32px -3264px
-;
+.icon.JACK_O_LANTERN::before {
+    background-position: -32px -3264px;
 }
 
 .icon.JIGSAW::before {
@@ -4522,8 +4518,8 @@ BALL
 }
 
 .icon.
-
 NETHER_WART_
+
 (
 BLOCK
 
