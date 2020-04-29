@@ -61,6 +61,8 @@
                         </a>
                         <span ng-show="!map.world.enable">{{result.x}} | {{result.y}} | {{result.z}}</span>
                     </div>
+                    <div class="icon ENCHANTED_BOOK" ng-show="showEnchantedBook(result)"></div>
+                    <div class="icon NAME_TAG" ng-show="showNameTag(result)"></div>
                 </li>
             </ul>
 
@@ -78,6 +80,8 @@
                         </a>
                         <span ng-show="!map.world_nether.enable">{{result.x}} | {{result.y}} | {{result.z}}</span>
                     </div>
+                    <div class="icon ENCHANTED_BOOK" ng-show="showEnchantedBook(result)"></div>
+                    <div class="icon NAME_TAG" ng-show="showNameTag(result)"></div>
                 </li>
             </ul>
 
@@ -95,6 +99,8 @@
                         </a>
                         <span ng-show="!map.world_the_end.enable">{{result.x}} | {{result.y}} | {{result.z}}</span>
                     </div>
+                    <div class="icon ENCHANTED_BOOK" ng-show="showEnchantedBook(result)"></div>
+                    <div class="icon NAME_TAG" ng-show="showNameTag(result)"></div>
                 </li>
             </ul>
         </div>
