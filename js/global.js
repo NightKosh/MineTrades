@@ -32,35 +32,37 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
         return $scope.showNameTag(item) ? item.itemInfo.name : "";
     }
 
-    $http.get('data/global/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
-        $scope.globalData = data;
-    });
-
     $scope.choosedItem = "";
     $scope.itemArray = [];
-    $http.get('data/items/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
-        $scope.items = data;
-        let i = 1;
-        for (let item in data) {
-            let itemName;
-            let itemClass;
-            let itemEnchantment;
-            if (data[item] instanceof String || typeof data[item] === "string") {
-                itemName = data[item];
-                itemClass = item;
-            } else {
-                itemName = data[item].name;
-                itemClass = data[item].class;
-                itemEnchantment = data[item].enchantment;
+    $http.get('data/global/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
+        $scope.globalData = data;
+
+        $http.get('data/items/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
+            $scope.items = data;
+            let i = 1;
+            for (let item in data) {
+                let itemName;
+                let itemClass;
+                let itemEnchantment;
+                if (data[item] instanceof String || typeof data[item] === "string") {
+                    itemName = data[item];
+                    itemClass = item;
+                } else {
+                    // Enchantments
+                    itemEnchantment = data[item].enchantment;
+                    console.log(itemEnchantment);
+                    itemName = data["ENCHANTED_BOOK"] + " - " + $scope.globalData.enchantments[itemEnchantment];
+                    itemClass = data[item].class;
+                }
+                $scope.itemArray.push({
+                    id : i,
+                    name: itemName,
+                    class: itemClass,
+                    enchantment: itemEnchantment
+                });
+                i++;
             }
-            $scope.itemArray.push({
-                id : i,
-                name: itemName,
-                class: itemClass,
-                enchantment: itemEnchantment
-            });
-            i++;
-        }
+        });
     });
 
     $scope.hasTrades = false;
