@@ -26,7 +26,7 @@ const CONFIGS = {
     }
 };
 
-var BACKGROUND = [
+const BACKGROUND = [
     "emerald",
     "diamond",
     "gold",

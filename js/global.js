@@ -81,9 +81,9 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
     $scope.class1 = BACKGROUND[0];
     $scope.hide = false;
     $interval(function() {
-        var nextPos = ($scope.bgPos == BACKGROUND.length - 1) ? 0 : $scope.bgPos + 1;
-        var class1 = BACKGROUND[$scope.bgPos];
-        var class2 = BACKGROUND[nextPos];
+        let nextPos = ($scope.bgPos == BACKGROUND.length - 1) ? 0 : $scope.bgPos + 1;
+        let class1 = BACKGROUND[$scope.bgPos];
+        let class2 = BACKGROUND[nextPos];
         if ($scope.hide) {
             $scope.class1 = class1;
             $scope.class2 = class2;
