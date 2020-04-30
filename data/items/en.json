@@ -478,7 +478,7 @@
   },
   "ENCHANTED_BOOK-SHARPNESS": {
     "class": "ENCHANTED_BOOK",
-    "enchantment": "SHARPNESS"
+    "enchantment": "DAMAGE_ALL"
   },
   "ENCHANTED_BOOK-SILK_TOUCH": {
     "class": "ENCHANTED_BOOK",
@@ -486,7 +486,7 @@
   },
   "ENCHANTED_BOOK-SMITE": {
     "class": "ENCHANTED_BOOK",
-    "enchantment": "SMITE"
+    "enchantment": "DAMAGE_UNDEAD"
   },
   "ENCHANTED_BOOK-SOUL_SPEED": {
     "class": "ENCHANTED_BOOK",
