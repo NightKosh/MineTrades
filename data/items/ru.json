@@ -411,7 +411,7 @@
   "ENCHANTED_BOOK-FLAME": {
     "class": "ENCHANTED_BOOK",
     "name": "Enchanted book - Flame",
-    "enchantment": "FLAME"
+    "enchantment": "ARROW_FIRE"
   },
   "ENCHANTED_BOOK-FORTUNE": {
     "class": "ENCHANTED_BOOK",
