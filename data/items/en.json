@@ -441,7 +441,7 @@
   "ENCHANTED_BOOK-LOOTING": {
     "class": "ENCHANTED_BOOK",
     "name": "Enchanted book - Looting",
-    "enchantment": "LOOT_BONUS_BLOCKS"
+    "enchantment": "LOOT_BONUS_MOBS"
   },
   "ENCHANTED_BOOK-LOYALTY": {
     "class": "ENCHANTED_BOOK",
