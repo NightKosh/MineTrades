@@ -351,7 +351,7 @@
   "ENCHANTED_BOOK-AQUA_AFFINITY": {
     "class": "ENCHANTED_BOOK",
     "name": "Enchanted book - Aqua Affinity",
-    "enchantment": "AQUA_AFFINITY"
+    "enchantment": "WATER_WORKER"
   },
   "ENCHANTED_BOOK-BANE_OF_ARTHROPODS": {
     "class": "ENCHANTED_BOOK",
