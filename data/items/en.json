@@ -460,7 +460,7 @@
   },
   "ENCHANTED_BOOK-MENDING": {
     "class": "ENCHANTED_BOOK",
-    "name": "Enchanted book - MENDING",
+    "name": "Enchanted book - Mending",
     "enchantment": "MENDING"
   },
   "ENCHANTED_BOOK-MULTISHOT": {
@@ -470,7 +470,7 @@
   },
   "ENCHANTED_BOOK-PIERCING": {
     "class": "ENCHANTED_BOOK",
-    "name": "Enchanted book - PIERCING",
+    "name": "Enchanted book - Piercing",
     "enchantment": "PIERCING"
   },
   "ENCHANTED_BOOK-POWER": {
@@ -501,7 +501,7 @@
   "ENCHANTED_BOOK-RESPIRATION": {
     "class": "ENCHANTED_BOOK",
     "name": "Enchanted book - Respiration",
-    "enchantment": "RESPIRATION"
+    "enchantment": "OXYGEN"
   },
   "ENCHANTED_BOOK-RIPTIDE": {
     "class": "ENCHANTED_BOOK",
