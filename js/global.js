@@ -22,7 +22,7 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
         if ($scope.showEnchantedBook(item)) {
             let enchantments = item.itemInfo.enchantments;
             for (let enchantment in enchantments) {
-                str += enchantment + " - " + enchantments[enchantment] + "\n";
+                str += $scope.globalData.enchantments[enchantment] + " - " + enchantments[enchantment] + "\n";
             }
             return str;
         }
