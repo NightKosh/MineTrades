@@ -890,9 +890,9 @@
     background-position: -224px -3232px;
 }
 
-.icon.BOTTLE_O'_ENCHANTING::before{
-    background-position: -288px -3456px;
-}
+/*.icon.BOTTLE_O'_ENCHANTING::before{*/
+/*    background-position: -288px -3456px;*/
+/*}*/
 
 .icon.BOW::before {
     background-position: -992px -1248px;
