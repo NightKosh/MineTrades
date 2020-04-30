@@ -40,25 +40,40 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
     $scope.itemArray = [];
     $http.get('data/items/' + PageService.getPageParams().lang + '.json?v=' + version).success(function (data, status, headers, config) {
         $scope.items = data;
-
-        var i = 1;
-        for (item in data) {
+        let i = 1;
+        for (let item in data) {
+            let itemName;
+            let itemClass;
+            let itemEnchantment;
+            if (data[item] instanceof String || typeof data[item] === "string") {
+                itemName = data[item];
+                itemClass = item;
+            } else {
+                itemName = data[item].name;
+                itemClass = data[item].class;
+                itemEnchantment = data[item].enchantment;
+            }
             $scope.itemArray.push({
                 id : i,
-                name: data[item],
-                class: item
+                name: itemName,
+                class: itemClass,
+                enchantment: itemEnchantment
             });
             i++;
         }
     });
 
-    $scope.has_trades = false;
-    $scope.search_results = [];
+    $scope.hasTrades = false;
+    $scope.searchResults = [];
     $scope.onSelect = function($item) {
         $scope.choosedItem = $item.class;
-        $http.get(CONFIGS.link + '?item=' + $item.class).success(function (data, status, headers, config) {
-            $scope.search_results = data;
-            $scope.has_trades = (Object.keys(data).length === 0 && data.constructor === Object);
+        let link = CONFIGS.link + '?item=' + $item.class;
+        if ($item.enchantment) {
+            link += "&enchantment=" + $item.enchantment;
+        }
+        $http.get(link).success(function (data, status, headers, config) {
+            $scope.searchResults = data;
+            $scope.hasTrades = (Object.keys(data).length === 0 && data.constructor === Object);
         });
     };
 

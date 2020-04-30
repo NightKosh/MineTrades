@@ -348,6 +348,201 @@
   "EMERALD_ORE": "Emerald ore",
   "EMPTY_LOCATOR_MAP": "Empty locator map",
   "ENCHANTED_BOOK": "Enchanted book",
+  "ENCHANTED_BOOK-AQUA_AFFINITY": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Aqua Affinity",
+    "enchantment": "AQUA_AFFINITY"
+  },
+  "ENCHANTED_BOOK-BANE_OF_ARTHROPODS": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Bane of Arthropods",
+    "enchantment": "BANE_OF_ARTHROPODS"
+  },
+  "ENCHANTED_BOOK-BLAST_PROTECTION": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Blast Protection",
+    "enchantment": "PROTECTION_EXPLOSIONS"
+  },
+  "ENCHANTED_BOOK-CHANNELING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Channeling",
+    "enchantment": "CHANNELING"
+  },
+  "ENCHANTED_BOOK-CHOPPING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Chopping",
+    "enchantment": "CHOPPING"
+  },
+  "ENCHANTED_BOOK-CURSE_OF_BINDING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Curse of Binding",
+    "enchantment": "CURSE_OF_BINDING"
+  },
+  "ENCHANTED_BOOK-CURSE_OF_VANISHING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Curse of Vanishing",
+    "enchantment": "CURSE_OF_VANISHING"
+  },
+  "ENCHANTED_BOOK-DEPTH_STRIDER": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Depth Strider",
+    "enchantment": "DEPTH_STRIDER"
+  },
+  "ENCHANTED_BOOK-EFFICIENCY": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Efficiency",
+    "enchantment": "DIG_SPEED"
+  },
+  "ENCHANTED_BOOK-FEATHER_FALLING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Feather Falling",
+    "enchantment": "PROTECTION_FALL"
+  },
+  "ENCHANTED_BOOK-FIRE_ASPECT": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Fire Aspect",
+    "enchantment": "FIRE_ASPECT"
+  },
+  "ENCHANTED_BOOK-FIRE_PROTECTION": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Fire Protection",
+    "enchantment": "PROTECTION_FIRE"
+  },
+  "ENCHANTED_BOOK-FLAME": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Flame",
+    "enchantment": "FLAME"
+  },
+  "ENCHANTED_BOOK-FORTUNE": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Fortune",
+    "enchantment": "LOOT_BONUS_BLOCKS"
+  },
+  "ENCHANTED_BOOK-FROST_WALKER": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Frost Walker",
+    "enchantment": "FROST_WALKER"
+  },
+  "ENCHANTED_BOOK-IMPALING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Impaling",
+    "enchantment": "IMPALING"
+  },
+  "ENCHANTED_BOOK-INFINITY": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Infinity",
+    "enchantment": "ARROW_INFINITY"
+  },
+  "ENCHANTED_BOOK-KNOCKBACK": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Knockback",
+    "enchantment": "KNOCKBACK"
+  },
+  "ENCHANTED_BOOK-LOOTING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Looting",
+    "enchantment": "LOOT_BONUS_BLOCKS"
+  },
+  "ENCHANTED_BOOK-LOYALTY": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Loyalty",
+    "enchantment": "LOYALTY"
+  },
+  "ENCHANTED_BOOK-LUCK_OF_THE_SEA": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Luck of the Sea",
+    "enchantment": "LUCK_OF_THE_SEA"
+  },
+  "ENCHANTED_BOOK-LURE": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Lure",
+    "enchantment": "LURE"
+  },
+  "ENCHANTED_BOOK-MENDING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - MENDING",
+    "enchantment": "MENDING"
+  },
+  "ENCHANTED_BOOK-MULTISHOT": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Multishot",
+    "enchantment": "MULTISHOT"
+  },
+  "ENCHANTED_BOOK-PIERCING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - PIERCING",
+    "enchantment": "PIERCING"
+  },
+  "ENCHANTED_BOOK-POWER": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Power",
+    "enchantment": "ARROW-DAMAGE"
+  },
+  "ENCHANTED_BOOK-PROJECTILE_PROTECTION": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Projectile Protection",
+    "enchantment": "PROTECTION_PROJECTILE"
+  },
+  "ENCHANTED_BOOK-PROTECTION": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Protection",
+    "enchantment": "PROTECTION_ENVIRONMENTAL"
+  },
+  "ENCHANTED_BOOK-PUNCH": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Punch",
+    "enchantment": "ARROW_KNOCKBACK"
+  },
+  "ENCHANTED_BOOK-QUICK_CHARGE": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Quick Charge",
+    "enchantment": "QUICK_CHARGE"
+  },
+  "ENCHANTED_BOOK-RESPIRATION": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Respiration",
+    "enchantment": "RESPIRATION"
+  },
+  "ENCHANTED_BOOK-RIPTIDE": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Riptide",
+    "enchantment": "RIPTIDE"
+  },
+  "ENCHANTED_BOOK-SHARPNESS": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Sharpness",
+    "enchantment": "SHARPNESS"
+  },
+  "ENCHANTED_BOOK-SILK_TOUCH": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Silk Touch",
+    "enchantment": "SILK_TOUCH"
+  },
+  "ENCHANTED_BOOK-SMITE": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Smite",
+    "enchantment": "SMITE"
+  },
+  "ENCHANTED_BOOK-SOUL_SPEED": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Soul Speed",
+    "enchantment": "SOUL_SPEED"
+  },
+  "ENCHANTED_BOOK-SWEEPING_EDGE": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Sweeping Edge",
+    "enchantment": "SWEEPING_EDGE"
+  },
+  "ENCHANTED_BOOK-THORNS": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Thorns",
+    "enchantment": "THORNS"
+  },
+  "ENCHANTED_BOOK-UNBREAKING": {
+    "class": "ENCHANTED_BOOK",
+    "name": "Enchanted book - Unbreaking",
+    "enchantment": "DURABILITY"
+  },
   "ENCHANTING_TABLE": "Enchanting table",
   "END_CRYSTAL": "End crystal",
   "END_ROD": "End rod",

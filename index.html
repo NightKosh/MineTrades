@@ -45,15 +45,15 @@
                 </ui-select-choices>
             </ui-select>
 
-            <h2 ng-show="has_trades">{{globalData.no_trades}}</h2>
+            <h2 ng-show="hasTrades">{{globalData.no_trades}}</h2>
 
-            <h2 ng-show="search_results.world.length > 0">{{globalData.world}}</h2>
-            <ul class="results" ng-show="search_results.world.length > 0">
+            <h2 ng-show="searchResults.world.length > 0">{{globalData.world}}</h2>
+            <ul class="results" ng-show="searchResults.world.length > 0">
                 <li class="header">
                     <div class="seller">{{globalData.seller}}</div>
                     <div class="pos">{{globalData.pos}}</div>
                 </li>
-                <li ng-repeat="result in search_results.world">
+                <li ng-repeat="result in searchResults.world">
                     <div class="seller">{{result.seller}}</div>
                     <div class="pos">
                         <a href="{{getMapLink(result, map.world)}}" ng-show="map.world.enable" target="_blank">
@@ -66,13 +66,13 @@
                 </li>
             </ul>
 
-            <h2 ng-show="search_results.world_nether.length > 0">{{globalData.hell}}</h2>
-            <ul class="results" ng-show="search_results.world_nether.length > 0">
+            <h2 ng-show="searchResults.world_nether.length > 0">{{globalData.hell}}</h2>
+            <ul class="results" ng-show="searchResults.world_nether.length > 0">
                 <li class="header">
                     <div class="seller">{{globalData.seller}}</div>
                     <div class="pos">{{globalData.pos}}</div>
                 </li>
-                <li ng-repeat="result in search_results.world_nether">
+                <li ng-repeat="result in searchResults.world_nether">
                     <div class="seller">{{result.seller}}</div>
                     <div class="pos">
                         <a href="{{getMapLink(result, map.world_nether)}}" ng-show="map.world_nether.enable" target="_blank">
@@ -85,13 +85,13 @@
                 </li>
             </ul>
 
-            <h2 ng-show="search_results.world_the_end.length > 0">{{globalData.end}}</h2>
-            <ul class="results" ng-show="search_results.world_the_end.length > 0">
+            <h2 ng-show="searchResults.world_the_end.length > 0">{{globalData.end}}</h2>
+            <ul class="results" ng-show="searchResults.world_the_end.length > 0">
                 <li class="header">
                     <div class="seller">{{globalData.seller}}</div>
                     <div class="pos">{{globalData.pos}}</div>
                 </li>
-                <li ng-repeat="result in search_results.world_the_end">
+                <li ng-repeat="result in searchResults.world_the_end">
                     <div class="seller">{{result.seller}}</div>
                     <div class="pos">
                         <a href="{{getMapLink(result, map.world_the_end)}}" ng-show="map.world_the_end.enable" target="_blank">
