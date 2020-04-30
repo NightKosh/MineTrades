@@ -50,7 +50,6 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
                 } else {
                     // Enchantments
                     itemEnchantment = data[item].enchantment;
-                    console.log(itemEnchantment);
                     itemName = data["ENCHANTED_BOOK"] + " - " + $scope.globalData.enchantments[itemEnchantment];
                     itemClass = data[item].class;
                 }
