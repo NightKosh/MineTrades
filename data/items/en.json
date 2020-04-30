@@ -414,7 +414,7 @@
   },
   "ENCHANTED_BOOK-INFINITY": {
     "class": "ENCHANTED_BOOK",
-    "enchantment": "ARROW_INFINITY"
+    "enchantment": "ARROW_INFINITE"
   },
   "ENCHANTED_BOOK-KNOCKBACK": {
     "class": "ENCHANTED_BOOK",
