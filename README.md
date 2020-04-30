@@ -25,5 +25,5 @@ As I suggest you may not have a proper server application to load all required d
 
 ## P.S.
 
-This "tools" were created for my own purpose, so they are provided to you as is. Feel free to use them in any way you want, but I'm not guaranty you any support with it in the feature.
+This "tools" were created for my own purpose, so they are provided to you as is. Feel free to use them in any way you want, but I'm not guaranty you any support with it in the future.
 
