@@ -2828,7 +2828,8 @@
     background-position: -992px -3232px;
 }
 
-.icon.HEAD::before {
+.icon.HEAD::before,
+.icon.PLAYER_HEAD::before {
     background-position: -160px -960px;
 }
 
