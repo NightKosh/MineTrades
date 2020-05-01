@@ -1,4 +1,4 @@
-var CONFIGS = {
+const CONFIGS = {
     link : "http://shops-api.blockcafe.ru/search",
     lang: "ru",
     map: {
