@@ -308,9 +308,17 @@ input.form-control {
   width: 50%;
   margin-right: -101px;
 }
-.results > li > div.price {
-  width: 200px;
+
+.results.show_price > li > div.seller {
+  width: 40%;
 }
+.results.show_price > li > div.price {
+  width: 20%;
+}
+.results.show_price > li > div.pos {
+  width: 40%;
+}
+
 .results > li > div.icon {
   float: right;
   border-left: none;

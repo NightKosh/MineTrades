@@ -38,23 +38,25 @@
         <div id="content">
             <ui-select ng-model="selected.value" autofocus="true" on-select="onSelect($item)">
                 <ui-select-match>
-                    <div class="item icon {{$select.selected.class}}" ng-bind="$select.selected.name"></div>
+                    <div class="item icon" ng-class="$select.selected.class" ng-bind="$select.selected.name"></div>
                 </ui-select-match>
                 <ui-select-choices repeat="item in (itemArray | filter: $select.search) track by item.id">
-                    <div class="item icon {{item.class}}" ng-bind="item.name"></div>
+                    <div class="item icon" ng-class="item.class" ng-bind="item.name"></div>
                 </ui-select-choices>
             </ui-select>
 
             <h2 ng-show="hasTrades">{{globalData.no_trades}}</h2>
 
             <h2 ng-show="searchResults.world.length > 0">{{globalData.world}}</h2>
-            <ul class="results" ng-show="searchResults.world.length > 0">
+            <ul class="results" ng-class="getPriceClass()" ng-show="searchResults.world.length > 0">
                 <li class="header">
                     <div class="seller">{{globalData.seller}}</div>
+                    <div class="price" ng-show="showPrice()">{{globalData.price}}</div>
                     <div class="pos">{{globalData.pos}}</div>
                 </li>
                 <li ng-repeat="result in searchResults.world">
                     <div class="seller">{{result.seller}}</div>
+                    <div class="price" ng-show="showPrice()">{{result.price}}</div>
                     <div class="pos">
                         <a href="{{getMapLink(result, map.world)}}" ng-show="map.world.enable" target="_blank">
                             {{result.x}} | {{result.y}} | {{result.z}}
@@ -67,13 +69,15 @@
             </ul>
 
             <h2 ng-show="searchResults.world_nether.length > 0">{{globalData.hell}}</h2>
-            <ul class="results" ng-show="searchResults.world_nether.length > 0">
+            <ul class="results" ng-class="getPriceClass()" ng-show="searchResults.world_nether.length > 0">
                 <li class="header">
                     <div class="seller">{{globalData.seller}}</div>
+                    <div class="price" ng-show="showPrice()">{{globalData.price}}</div>
                     <div class="pos">{{globalData.pos}}</div>
                 </li>
                 <li ng-repeat="result in searchResults.world_nether">
                     <div class="seller">{{result.seller}}</div>
+                    <div class="price" ng-show="showPrice()">{{result.price}}</div>
                     <div class="pos">
                         <a href="{{getMapLink(result, map.world_nether)}}" ng-show="map.world_nether.enable" target="_blank">
                             {{result.x}} | {{result.y}} | {{result.z}}
@@ -86,13 +90,15 @@
             </ul>
 
             <h2 ng-show="searchResults.world_the_end.length > 0">{{globalData.end}}</h2>
-            <ul class="results" ng-show="searchResults.world_the_end.length > 0">
+            <ul class="results" ng-class="getPriceClass()" ng-show="searchResults.world_the_end.length > 0">
                 <li class="header">
                     <div class="seller">{{globalData.seller}}</div>
+                    <div class="price" ng-show="showPrice()">{{globalData.price}}</div>
                     <div class="pos">{{globalData.pos}}</div>
                 </li>
                 <li ng-repeat="result in searchResults.world_the_end">
                     <div class="seller">{{result.seller}}</div>
+                    <div class="price" ng-show="showPrice()">{{result.price}}</div>
                     <div class="pos">
                         <a href="{{getMapLink(result, map.world_the_end)}}" ng-show="map.world_the_end.enable" target="_blank">
                             {{result.x}} | {{result.y}} | {{result.z}}

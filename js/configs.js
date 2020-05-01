@@ -1,6 +1,7 @@
 const CONFIGS = {
     link : "data/demo.json",
     lang: "ru",
+    showPrice: true,
     map: {
         world: {
             link: "http://your_map.com/",

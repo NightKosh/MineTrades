@@ -1,7 +1,7 @@
 
 app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService', function($scope, $http, $interval, PageService) {
     $scope.globalData = {};
-    $scope.map = PageService.getPageParams().map;
+    $scope.map = CONFIGS.map;
     $scope.getMapLink = function($trade, $world) {
         return $world.link +
             "?worldname=" + $world.prefix +
@@ -11,6 +11,12 @@ app.controller("GlobalPageCtrl", ['$scope', '$http', '$interval', 'PageService',
             "&y=" + $trade.y +
             "&z=" + $trade.z;
     };
+    $scope.showPrice = function() {
+        return CONFIGS.showPrice;
+    }
+    $scope.getPriceClass = function() {
+        return $scope.showPrice() ? "show_price" : "";
+    }
     $scope.showEnchantedBook = function(item) {
         return (item.itemInfo && item.itemInfo.enchantments);
     }
