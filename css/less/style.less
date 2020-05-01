@@ -314,15 +314,28 @@ input.form-control {
         width: 50%;
         margin-right: -101px;
       }
-      &.price {
-        width: 200px;
-      }
       &.icon {
         float: right;
         border-left: none;
 
         &::before {
           margin-right: 9px;
+        }
+      }
+    }
+  }
+
+  &.show_price {
+    > li {
+      > div {
+        &.seller {
+          width: 40%;
+        }
+        &.pos {
+          width: 40%;
+        }
+        &.price {
+          width: 20%;
         }
       }
     }

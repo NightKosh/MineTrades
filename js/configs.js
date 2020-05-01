@@ -1,6 +1,7 @@
 const CONFIGS = {
     link : "http://shops-api.blockcafe.ru/search",
     lang: "ru",
+    showPrice: true,
     map: {
         world: {
             link: "http://map.blockcafe.ru/",
