@@ -17,7 +17,17 @@ By default, it loads pre generated static json file [demo.json](https://github.c
 
 ## Localization
 
-It provides you a multiple language support. All localized strings stores in json files in [data directory](https://github.com/NightKosh/MineTrades/tree/master/data). You can find default language configuration option in the configuration file - [configs.js](https://github.com/NightKosh/MineTrades/blob/master/js/configs.js). At the same time you can chouse language manualy by adding "?lang=YOUR_LANGUAGE_SHORTCUT" ( "?lang=en" as for example ) to the end of page url. 
+It provides you a multiple language support. All localized strings stores in json files in [data directory](https://github.com/NightKosh/MineTrades/tree/master/data). You can find default language configuration option in the configuration file - [configs.js](https://github.com/NightKosh/MineTrades/blob/master/js/configs.js). At the same time you can choose language manually by adding "?lang=YOUR_LANGUAGE_SHORTCUT" ( "?lang=en" as for example ) to the end of page url. 
+Feel free to make merge requests with translations on other languages!
+
+## Configs
+
+As already was mentioned there are a few configuration options, which should allow you to simplify adjusting of this site to your server and requirements. Here is a link to the configuration file - [configs.js](https://github.com/NightKosh/MineTrades/blob/master/js/configs.js).
+* link - link to the Get endpoint which will be used to load trades data from your server
+* lang - localization which will be loaded and used by default
+* showPrice - this option allows you to disable to show prices(it doesn't affect server side application)
+* map - a set of options which will be used to automatically generate links on the map. It is designed for usage with [Dynmap](https://github.com/webbukkit/dynmap)
+
 
 ## Server App
 
