@@ -610,23 +610,23 @@
     background-position: -704px -1120px;
 }
 
-.icon.BLOCK_OF_COAL::before {
+.icon.COAL_BLOCK::before {
     background-position: -32px -3232px;
 }
 
-.icon.BLOCK_OF_DIAMOND::before {
+.icon.DIAMOND_BLOCK::before {
     background-position: -64px -3232px;
 }
 
-.icon.BLOCK_OF_EMERALD::before {
+.icon.EMERALD_BLOCK::before {
     background-position: -96px -3232px;
 }
 
-.icon.BLOCK_OF_GOLD::before {
+.icon.GOLD_BLOCK::before {
     background-position: -128px -3232px;
 }
 
-.icon.BLOCK_OF_IRON::before {
+.icon.IRON_BLOCK::before {
     background-position: -160px -3232px;
 }
 
@@ -634,11 +634,11 @@
     background-position: -96px -128px;
 }
 
-.icon.BLOCK_OF_QUARTZ::before {
+.icon.QUARTZ_BLOCK::before {
     background-position: -192px -3232px;
 }
 
-.icon.BLOCK_OF_REDSTONE::before {
+.icon.REDSTONE_BLOCK::before {
     background-position: -64px -3328px;
 }
 
@@ -3088,7 +3088,7 @@
     background-position: -768px -3136px;
 }
 
-.icon.LAPIS_LAZULI_BLOCK::before {
+.icon.LAPIS_BLOCK::before {
     background-position: -256px -3264px;
 }
 
